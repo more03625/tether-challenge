@@ -85,6 +85,4 @@ async function getCoinData(coin) {
   }
 }
 
-collectPrices().then((data) => console.log(JSON.stringify(data, null, 2)));
-
 module.exports = collectPrices;
