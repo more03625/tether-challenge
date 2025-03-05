@@ -1,7 +1,4 @@
-// src/dht/node.js
-
 const DHT = require('hyperdht');
-const crypto = require('crypto');
 
 async function startDHTNode() {
   const node = new DHT({

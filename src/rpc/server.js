@@ -32,19 +32,6 @@ async function startRPCServer() {
     const respRaw = Buffer.from(JSON.stringify(historicalPrices), 'utf-8');
     return respRaw;
   });
-
-  // const client = rpc.connect(server.publicKey);
-
-  // const payload = { pairs: ['BTC-USDt', 'ETH-USDt'] };
-  // const payloadRaw = Buffer.from(JSON.stringify(payload), 'utf-8');
-  // const respRaw = await rpc.request(server.publicKey, 'getLatestPrices', payloadRaw);
-  // const clientRes = await client.request('getLatestPrices', Buffer.from(payloadRaw));
-
-
-  // const resp = JSON.parse(respRaw.toString('utf-8'));
-
-  // console.log('resp =========>', resp);
-  // console.log('clientRes =========>', JSON.parse(clientRes.toString('utf-8')));
 }
 
 async function getRPCServerPublicKey() {
