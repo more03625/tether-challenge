@@ -26,7 +26,6 @@ async function fetchPrices(serverPublicKey) {
     const responseHistorical = await client.request('getHistoricalPrices', Buffer.from(JSON.stringify(payloadHistorical), 'utf-8'));
 
     const historicalPricesRaw = responseHistorical.toString('utf-8');
-    console.log('Historical Prices (Raw):', historicalPricesRaw); // Debug
 
     let historicalPrices = null;
     if (historicalPricesRaw !== 'null') {
