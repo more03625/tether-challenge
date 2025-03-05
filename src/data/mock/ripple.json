@@ -1,0 +1,3175 @@
+{
+    "data": {
+        "name": "XRP",
+        "tickers": [
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4851,
+                "volume": 463685840.0,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112036,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 12494,
+                    "eth": 509478,
+                    "usd": 1130030430
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014029,
+                "timestamp": "2025-03-05T12:57:08+00:00",
+                "last_traded_at": "2025-03-05T12:57:08+00:00",
+                "last_fetch_at": "2025-03-05T12:57:08+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_USDT?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "Coinbase Exchange",
+                    "identifier": "gdax",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4818,
+                "volume": 277432865.138991,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111944,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 7614,
+                    "eth": 310570,
+                    "usd": 688532885
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016117,
+                "timestamp": "2025-03-05T12:58:11+00:00",
+                "last_traded_at": "2025-03-05T12:58:11+00:00",
+                "last_fetch_at": "2025-03-05T12:58:11+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinbase.com/advanced-trade/spot/XRP-USD",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Gate.io",
+                    "identifier": "gate",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48304,
+                "volume": 94079083.792,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00112032,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 2535,
+                    "eth": 103454,
+                    "usd": 229258649
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.010403,
+                "timestamp": "2025-03-05T12:58:59+00:00",
+                "last_traded_at": "2025-03-05T12:58:59+00:00",
+                "last_fetch_at": "2025-03-05T12:58:59+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.gate.io/trade/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Bybit",
+                    "identifier": "bybit_spot",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4837,
+                "volume": 126880070.27,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112202,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 3426,
+                    "eth": 139800,
+                    "usd": 309509811
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014029,
+                "timestamp": "2025-03-05T12:59:11+00:00",
+                "last_traded_at": "2025-03-05T12:59:11+00:00",
+                "last_fetch_at": "2025-03-05T12:59:11+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bybit.com/trade/spot/XRP/USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "WEEX",
+                    "identifier": "weex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4987,
+                "volume": 120115870.309305,
+                "converted_last": {
+                    "btc": 2.765e-05,
+                    "eth": 0.00112227,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 3322,
+                    "eth": 134803,
+                    "usd": 300152690
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.013999,
+                "timestamp": "2025-03-05T12:32:15+00:00",
+                "last_traded_at": "2025-03-05T12:32:15+00:00",
+                "last_fetch_at": "2025-03-05T12:32:15+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.weex.com/trade/xrp_usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "Kraken",
+                    "identifier": "kraken",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48553,
+                "volume": 62936945.41854902,
+                "converted_last": {
+                    "btc": 2.752e-05,
+                    "eth": 0.00112265,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 1732,
+                    "eth": 70656,
+                    "usd": 156431666
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.010402,
+                "timestamp": "2025-03-05T12:59:54+00:00",
+                "last_traded_at": "2025-03-05T12:59:54+00:00",
+                "last_fetch_at": "2025-03-05T12:59:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://pro.kraken.com/app/trade/XRP-USD",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitget",
+                    "identifier": "bitget",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4831,
+                "volume": 110872573.4058,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112175,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 2993,
+                    "eth": 122140,
+                    "usd": 270412719
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.018052,
+                "timestamp": "2025-03-05T12:59:30+00:00",
+                "last_traded_at": "2025-03-05T12:59:30+00:00",
+                "last_fetch_at": "2025-03-05T12:59:30+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitget.com/spot/XRPUSDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4983,
+                "volume": 85087151.0,
+                "converted_last": {
+                    "btc": 2.756e-05,
+                    "eth": 0.0011214,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 2297,
+                    "eth": 93441,
+                    "usd": 208167184
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014032,
+                "timestamp": "2025-03-05T12:42:12+00:00",
+                "last_traded_at": "2025-03-05T12:42:12+00:00",
+                "last_fetch_at": "2025-03-05T12:42:12+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_USDC?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "KuCoin",
+                    "identifier": "kucoin",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48329,
+                "volume": 59311586.22450582,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112149,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 1631,
+                    "eth": 66517,
+                    "usd": 147309955
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.010403,
+                "timestamp": "2025-03-05T13:00:00+00:00",
+                "last_traded_at": "2025-03-05T13:00:00+00:00",
+                "last_fetch_at": "2025-03-05T13:00:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.kucoin.com/trade/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "OKX",
+                    "identifier": "okex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4839,
+                "volume": 65969853.160588,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112201,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 1785,
+                    "eth": 72846,
+                    "usd": 161281077
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.012077,
+                "timestamp": "2025-03-05T12:59:33+00:00",
+                "last_traded_at": "2025-03-05T12:59:33+00:00",
+                "last_fetch_at": "2025-03-05T12:59:33+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okx.com/trade-spot/xrp-usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "FDUSD",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4909,
+                "volume": 124324067.0,
+                "converted_last": {
+                    "btc": 2.752e-05,
+                    "eth": 0.00112264,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 3343,
+                    "eth": 136387,
+                    "usd": 302043842
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.02812,
+                "timestamp": "2025-03-05T13:00:08+00:00",
+                "last_traded_at": "2025-03-05T13:00:08+00:00",
+                "last_fetch_at": "2025-03-05T13:00:08+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_FDUSD?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "first-digital-usd"
+            },
+            {
+                "base": "XRP",
+                "target": "EUR",
+                "market": {
+                    "name": "Bitvavo",
+                    "identifier": "bitvavo",
+                    "has_trading_incentive": false
+                },
+                "last": 2.3253,
+                "volume": 43608351.643982,
+                "converted_last": {
+                    "btc": 2.754e-05,
+                    "eth": 0.00112379,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 1201,
+                    "eth": 49007,
+                    "usd": 108498172
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.017208,
+                "timestamp": "2025-03-05T12:59:00+00:00",
+                "last_traded_at": "2025-03-05T12:59:00+00:00",
+                "last_fetch_at": "2025-03-05T12:59:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://account.bitvavo.com/markets/XRP-EUR",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "LBank",
+                    "identifier": "lbank",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4756,
+                "volume": 33477008.44,
+                "converted_last": {
+                    "btc": 2.738e-05,
+                    "eth": 0.00111589,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 916.664,
+                    "eth": 37357,
+                    "usd": 82786847
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014014,
+                "timestamp": "2025-03-05T12:49:32+00:00",
+                "last_traded_at": "2025-03-05T12:49:32+00:00",
+                "last_fetch_at": "2025-03-05T12:49:32+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.lbank.com/trade/xrp_usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "JPY",
+                "market": {
+                    "name": "Bitbank",
+                    "identifier": "bitbank",
+                    "has_trading_incentive": false
+                },
+                "last": 372.7,
+                "volume": 22022660.7039,
+                "converted_last": {
+                    "btc": 2.761e-05,
+                    "eth": 0.00112647,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 607.969,
+                    "eth": 24808,
+                    "usd": 54923592
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.010268,
+                "timestamp": "2025-03-05T12:59:30+00:00",
+                "last_traded_at": "2025-03-05T12:59:30+00:00",
+                "last_fetch_at": "2025-03-05T12:59:30+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://app.bitbank.cc/trade/xrp_jpy",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitunix",
+                    "identifier": "bitunix",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4829,
+                "volume": 28074941.0,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112127,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 771.83,
+                    "eth": 31479,
+                    "usd": 69721749
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014023,
+                "timestamp": "2025-03-05T12:54:38+00:00",
+                "last_traded_at": "2025-03-05T12:54:38+00:00",
+                "last_fetch_at": "2025-03-05T12:54:38+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitunix.com/spot-trade/XRPUSDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "DigiFinex",
+                    "identifier": "digifinex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48635,
+                "volume": 22915984.0,
+                "converted_last": {
+                    "btc": 2.752e-05,
+                    "eth": 0.00112277,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 630.746,
+                    "eth": 25729,
+                    "usd": 56980804
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.01402,
+                "timestamp": "2025-03-05T13:00:12+00:00",
+                "last_traded_at": "2025-03-05T13:00:12+00:00",
+                "last_fetch_at": "2025-03-05T13:00:12+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XRP",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "MEXC",
+                    "identifier": "mxc",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4811,
+                "volume": 65948787.8,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111947,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 1811,
+                    "eth": 73828,
+                    "usd": 163627502
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.036257,
+                "timestamp": "2025-03-05T12:56:05+00:00",
+                "last_traded_at": "2025-03-05T12:56:05+00:00",
+                "last_fetch_at": "2025-03-05T12:56:05+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.mexc.com/exchange/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitrue",
+                    "identifier": "bitrue",
+                    "has_trading_incentive": false
+                },
+                "last": 2.5035,
+                "volume": 20941053.8625,
+                "converted_last": {
+                    "btc": 2.765e-05,
+                    "eth": 0.0011246,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 578.939,
+                    "eth": 23550,
+                    "usd": 52435960
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014031,
+                "timestamp": "2025-03-05T12:40:32+00:00",
+                "last_traded_at": "2025-03-05T12:40:32+00:00",
+                "last_fetch_at": "2025-03-05T12:40:32+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitrue.com/trade/xrp_usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Ourbit",
+                    "identifier": "ourbit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4843,
+                "volume": 24972903.04,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.0011211,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 673.708,
+                    "eth": 27471,
+                    "usd": 60872121
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014025,
+                "timestamp": "2025-03-05T12:55:34+00:00",
+                "last_traded_at": "2025-03-05T12:55:34+00:00",
+                "last_fetch_at": "2025-03-05T12:55:34+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.ourbit.com/exchange/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Hibt",
+                    "identifier": "hibt",
+                    "has_trading_incentive": false
+                },
+                "last": 2.479,
+                "volume": 24683708.796370126,
+                "converted_last": {
+                    "btc": 2.735e-05,
+                    "eth": 0.00111639,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 665.755,
+                    "eth": 27171,
+                    "usd": 60130616
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.018064,
+                "timestamp": "2025-03-05T12:53:46+00:00",
+                "last_traded_at": "2025-03-05T12:53:46+00:00",
+                "last_fetch_at": "2025-03-05T12:53:46+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://hibt.com/trade/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "TRY",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 90.27,
+                "volume": 11055321.0,
+                "converted_last": {
+                    "btc": 2.74e-05,
+                    "eth": 0.00111638,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 299.94,
+                    "eth": 12223,
+                    "usd": 27127373
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011022,
+                "timestamp": "2025-03-05T12:48:05+00:00",
+                "last_traded_at": "2025-03-05T12:48:05+00:00",
+                "last_fetch_at": "2025-03-05T12:48:05+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_TRY?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "EUR",
+                "market": {
+                    "name": "Kraken",
+                    "identifier": "kraken",
+                    "has_trading_incentive": false
+                },
+                "last": 2.32486,
+                "volume": 9409099.67722446,
+                "converted_last": {
+                    "btc": 2.754e-05,
+                    "eth": 0.00112356,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 259.102,
+                    "eth": 10572,
+                    "usd": 23405538
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.01043,
+                "timestamp": "2025-03-05T12:59:54+00:00",
+                "last_traded_at": "2025-03-05T12:59:54+00:00",
+                "last_fetch_at": "2025-03-05T12:59:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://pro.kraken.com/app/trade/XRP-EUR",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "HTX",
+                    "identifier": "huobi",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48402,
+                "volume": 16950859.011159327,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112207,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 458.291,
+                    "eth": 18699,
+                    "usd": 41398986
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.018457,
+                "timestamp": "2025-03-05T12:59:38+00:00",
+                "last_traded_at": "2025-03-05T12:59:38+00:00",
+                "last_fetch_at": "2025-03-05T12:59:38+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.huobi.com/en-us/exchange/xrp_usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "OKX",
+                    "identifier": "okex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4838,
+                "volume": 11398730.4157,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112203,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 309.896,
+                    "eth": 12644,
+                    "usd": 27993922
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014026,
+                "timestamp": "2025-03-05T12:59:33+00:00",
+                "last_traded_at": "2025-03-05T12:59:33+00:00",
+                "last_fetch_at": "2025-03-05T12:59:33+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okx.com/trade-spot/xrp-usdc",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "CoinW",
+                    "identifier": "coinw",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48438,
+                "volume": 49717075.1,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112232,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 1367,
+                    "eth": 55799,
+                    "usd": 123535710
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.064419,
+                "timestamp": "2025-03-05T12:59:08+00:00",
+                "last_traded_at": "2025-03-05T12:59:08+00:00",
+                "last_fetch_at": "2025-03-05T12:59:08+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinw.com/spot/xrpusdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "BTSE",
+                    "identifier": "btse",
+                    "has_trading_incentive": false
+                },
+                "last": 2.484197876,
+                "volume": 8931503.056945823,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112103,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 245.55,
+                    "eth": 10013,
+                    "usd": 22191224
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.012417,
+                "timestamp": "2025-03-05T12:56:01+00:00",
+                "last_traded_at": "2025-03-05T12:56:01+00:00",
+                "last_fetch_at": "2025-03-05T12:56:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.btse.com/en/trading/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "Bitstamp",
+                    "identifier": "bitstamp",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48429,
+                "volume": 24498819.11767809,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112211,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 673.705,
+                    "eth": 27490,
+                    "usd": 60862171
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.033822,
+                "timestamp": "2025-03-05T12:59:29+00:00",
+                "last_traded_at": "2025-03-05T12:59:29+00:00",
+                "last_fetch_at": "2025-03-05T12:59:29+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitstamp.net/markets/xrp/usd/",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "WEEX",
+                    "identifier": "weex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.5007,
+                "volume": 10000602.747792,
+                "converted_last": {
+                    "btc": 2.782e-05,
+                    "eth": 0.00112002,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 278.176,
+                    "eth": 11201,
+                    "usd": 25023813
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.013995,
+                "timestamp": "2025-03-05T11:48:50+00:00",
+                "last_traded_at": "2025-03-05T11:48:50+00:00",
+                "last_fetch_at": "2025-03-05T11:48:50+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.weex.com/trade/xrp_usdc",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "BTC",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 2.747e-05,
+                "volume": 23897206.0,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112036,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 681.259,
+                    "eth": 27785,
+                    "usd": 61613655
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.036417,
+                "timestamp": "2025-03-05T12:58:01+00:00",
+                "last_traded_at": "2025-03-05T12:58:01+00:00",
+                "last_fetch_at": "2025-03-05T12:58:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_BTC?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "PointPay",
+                    "identifier": "pointpay",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48284896,
+                "volume": 6254093.85938849,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112119,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 168.849,
+                    "eth": 6888,
+                    "usd": 15253628
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011999,
+                "timestamp": "2025-03-05T13:00:03+00:00",
+                "last_traded_at": "2025-03-05T13:00:03+00:00",
+                "last_fetch_at": "2025-03-05T13:00:03+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.pointpay.io/trade-classic/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Tapbit",
+                    "identifier": "tapbit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.481,
+                "volume": 11818352.37,
+                "converted_last": {
+                    "btc": 2.738e-05,
+                    "eth": 0.00111729,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 318.023,
+                    "eth": 12979,
+                    "usd": 28723702
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.020165,
+                "timestamp": "2025-03-05T12:53:44+00:00",
+                "last_traded_at": "2025-03-05T12:53:44+00:00",
+                "last_fetch_at": "2025-03-05T12:53:44+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.tapbit.com/spot/exchange/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Azbit",
+                    "identifier": "azbit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.486,
+                "volume": 4532008.4295,
+                "converted_last": {
+                    "btc": 2.751e-05,
+                    "eth": 0.00112168,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 122.282,
+                    "eth": 4986,
+                    "usd": 11051108
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011209,
+                "timestamp": "2025-03-05T12:56:16+00:00",
+                "last_traded_at": "2025-03-05T12:56:16+00:00",
+                "last_fetch_at": "2025-03-05T12:56:16+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://azbit.com/exchange/XRP_USDT?referralCode=OH5QDS1",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Azbit",
+                    "identifier": "azbit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4826,
+                "volume": 5837098.732,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112149,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 158.237,
+                    "eth": 6456,
+                    "usd": 14294104
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.014025,
+                "timestamp": "2025-03-05T12:59:57+00:00",
+                "last_traded_at": "2025-03-05T12:59:57+00:00",
+                "last_fetch_at": "2025-03-05T12:59:57+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://azbit.com/exchange/XRP_USDC?referralCode=OH5QDS1",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "BingX",
+                    "identifier": "bingx",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4831,
+                "volume": 6371414.165695,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112175,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 172.151,
+                    "eth": 7025,
+                    "usd": 15552017
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.020127,
+                "timestamp": "2025-03-05T12:59:21+00:00",
+                "last_traded_at": "2025-03-05T12:59:21+00:00",
+                "last_fetch_at": "2025-03-05T12:59:21+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bingx.com/en-us/spot/XRPUSDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "EUR",
+                "market": {
+                    "name": "Coinbase Exchange",
+                    "identifier": "gdax",
+                    "has_trading_incentive": false
+                },
+                "last": 2.322,
+                "volume": 8567560.534209,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112065,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 235.401,
+                    "eth": 9601,
+                    "usd": 21285956
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.025848,
+                "timestamp": "2025-03-05T12:58:10+00:00",
+                "last_traded_at": "2025-03-05T12:58:10+00:00",
+                "last_fetch_at": "2025-03-05T12:58:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinbase.com/advanced-trade/spot/XRP-EUR",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "CoinEx",
+                    "identifier": "coinex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.481,
+                "volume": 12558301.43730526,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111947,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 338.449,
+                    "eth": 13801,
+                    "usd": 30588147
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.052291,
+                "timestamp": "2025-03-05T12:56:56+00:00",
+                "last_traded_at": "2025-03-05T12:56:56+00:00",
+                "last_fetch_at": "2025-03-05T12:56:56+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinex.com/en/exchange/xrp-usdt?",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "WhiteBIT",
+                    "identifier": "whitebit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48272,
+                "volume": 27614919.86,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112025,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 758.639,
+                    "eth": 30936,
+                    "usd": 68563880
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.130236,
+                "timestamp": "2025-03-05T12:56:50+00:00",
+                "last_traded_at": "2025-03-05T12:56:50+00:00",
+                "last_fetch_at": "2025-03-05T12:56:50+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://whitebit.com/trade/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "XT.COM",
+                    "identifier": "xt",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4845,
+                "volume": 13563527.0,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112009,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 365.393,
+                    "eth": 14900,
+                    "usd": 33047456
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.064384,
+                "timestamp": "2025-03-05T12:57:17+00:00",
+                "last_traded_at": "2025-03-05T12:57:17+00:00",
+                "last_fetch_at": "2025-03-05T12:57:17+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.xt.com/en/trade/xrp_usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Bybit",
+                    "identifier": "bybit_spot",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4815,
+                "volume": 5995709.88,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112108,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 161.515,
+                    "eth": 6591,
+                    "usd": 14591181
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.036251,
+                "timestamp": "2025-03-05T12:58:17+00:00",
+                "last_traded_at": "2025-03-05T12:58:17+00:00",
+                "last_fetch_at": "2025-03-05T12:59:13+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bybit.com/trade/spot/XRP/USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "IDR",
+                "market": {
+                    "name": "Indodax",
+                    "identifier": "indodax",
+                    "has_trading_incentive": false
+                },
+                "last": 40690.0,
+                "volume": 2013573.07993558,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112161,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 55.375,
+                    "eth": 2258,
+                    "usd": 5008133
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.012457,
+                "timestamp": "2025-03-05T12:57:40+00:00",
+                "last_traded_at": "2025-03-05T12:57:40+00:00",
+                "last_fetch_at": "2025-03-05T12:57:40+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://indodax.com/market/XRPIDR",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "BitDelta",
+                    "identifier": "bitdelta",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4838,
+                "volume": 3367768.0,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00112066,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 90.997,
+                    "eth": 3713,
+                    "usd": 8228314
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.020132,
+                "timestamp": "2025-03-05T12:58:57+00:00",
+                "last_traded_at": "2025-03-05T12:58:57+00:00",
+                "last_fetch_at": "2025-03-05T12:58:57+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bitdelta.com/en/trade/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "JPY",
+                "market": {
+                    "name": "GMO Japan",
+                    "identifier": "gmo_japan",
+                    "has_trading_incentive": false
+                },
+                "last": 372.363,
+                "volume": 10718122.0,
+                "converted_last": {
+                    "btc": 2.755e-05,
+                    "eth": 0.00112365,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 295.291,
+                    "eth": 12043,
+                    "usd": 26706377
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.066961,
+                "timestamp": "2025-03-05T12:57:40+00:00",
+                "last_traded_at": "2025-03-05T12:57:40+00:00",
+                "last_fetch_at": "2025-03-05T12:57:40+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://coin.z.com/jp/corp/information/xrp-market/",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "EUR",
+                "market": {
+                    "name": "OKX",
+                    "identifier": "okex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.3256,
+                "volume": 2435472.6981,
+                "converted_last": {
+                    "btc": 2.755e-05,
+                    "eth": 0.00112392,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 66.741,
+                    "eth": 2723,
+                    "usd": 6028910
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.018602,
+                "timestamp": "2025-03-05T12:59:34+00:00",
+                "last_traded_at": "2025-03-05T12:59:34+00:00",
+                "last_fetch_at": "2025-03-05T12:59:34+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okx.com/trade-spot/xrp-eur",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "FMCPAY",
+                    "identifier": "fmcpay",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4847,
+                "volume": 7337257.351,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112133,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 198.911,
+                    "eth": 8111,
+                    "usd": 17971238
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.056568,
+                "timestamp": "2025-03-05T12:55:20+00:00",
+                "last_traded_at": "2025-03-05T12:55:20+00:00",
+                "last_fetch_at": "2025-03-05T12:55:20+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://fmcpay.com/exchange/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "GBP",
+                "market": {
+                    "name": "Kraken",
+                    "identifier": "kraken",
+                    "has_trading_incentive": false
+                },
+                "last": 1.93841,
+                "volume": 1149166.35198623,
+                "converted_last": {
+                    "btc": 2.751e-05,
+                    "eth": 0.00112248,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 31.614536,
+                    "eth": 1290,
+                    "usd": 2855848
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.010516,
+                "timestamp": "2025-03-05T12:59:54+00:00",
+                "last_traded_at": "2025-03-05T12:59:54+00:00",
+                "last_fetch_at": "2025-03-05T12:59:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://pro.kraken.com/app/trade/XRP-GBP",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "EUR",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 2.336,
+                "volume": 4903033.0,
+                "converted_last": {
+                    "btc": 2.76e-05,
+                    "eth": 0.00112279,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 133.896,
+                    "eth": 5446,
+                    "usd": 12134466
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.043083,
+                "timestamp": "2025-03-05T12:41:01+00:00",
+                "last_traded_at": "2025-03-05T12:41:01+00:00",
+                "last_fetch_at": "2025-03-05T12:41:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_EUR?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "ETH",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0011167,
+                "volume": 2117447.0,
+                "converted_last": {
+                    "btc": 2.737e-05,
+                    "eth": 0.00111536,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 59.29,
+                    "eth": 2416,
+                    "usd": 5362328
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.018925,
+                "timestamp": "2025-03-05T12:48:04+00:00",
+                "last_traded_at": "2025-03-05T12:48:04+00:00",
+                "last_fetch_at": "2025-03-05T12:48:04+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_ETH?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "ethereum"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "MEXC",
+                    "identifier": "mxc",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4806,
+                "volume": 8500081.93,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.0011199,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 233.397,
+                    "eth": 9519,
+                    "usd": 21083485
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.076453,
+                "timestamp": "2025-03-05T12:54:49+00:00",
+                "last_traded_at": "2025-03-05T12:54:49+00:00",
+                "last_fetch_at": "2025-03-05T12:54:49+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.mexc.com/exchange/XRP_USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Coinbase Exchange",
+                    "identifier": "gdax",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4859,
+                "volume": 3427486.744055,
+                "converted_last": {
+                    "btc": 2.752e-05,
+                    "eth": 0.00112365,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 94.342,
+                    "eth": 3851,
+                    "usd": 8520881
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.036198,
+                "timestamp": "2025-03-05T12:54:33+00:00",
+                "last_traded_at": "2025-03-05T12:54:33+00:00",
+                "last_fetch_at": "2025-03-05T12:54:33+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinbase.com/advanced-trade/spot/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Kraken",
+                    "identifier": "kraken",
+                    "has_trading_incentive": false
+                },
+                "last": 2.47899,
+                "volume": 2178217.877234,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111986,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 59.785,
+                    "eth": 2439,
+                    "usd": 5400557
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.022511,
+                "timestamp": "2025-03-05T13:00:00+00:00",
+                "last_traded_at": "2025-03-05T13:00:00+00:00",
+                "last_fetch_at": "2025-03-05T13:00:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://pro.kraken.com/app/trade/XRP-USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "BTC",
+                "market": {
+                    "name": "DigiFinex",
+                    "identifier": "digifinex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.7497e-05,
+                "volume": 5230417.0,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112166,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 143.821,
+                    "eth": 5867,
+                    "usd": 12992585
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.058154,
+                "timestamp": "2025-03-05T13:00:12+00:00",
+                "last_traded_at": "2025-03-05T13:00:12+00:00",
+                "last_fetch_at": "2025-03-05T13:00:12+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/XRP",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Phemex",
+                    "identifier": "phemex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4855,
+                "volume": 3235422.5,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112094,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 88.919,
+                    "eth": 3627,
+                    "usd": 8040441
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.040254,
+                "timestamp": "2025-03-05T12:58:56+00:00",
+                "last_traded_at": "2025-03-05T12:58:56+00:00",
+                "last_fetch_at": "2025-03-05T12:58:56+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://phemex.com/spot/trade/XRPUSDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "MXN",
+                "market": {
+                    "name": "Bitso",
+                    "identifier": "bitso",
+                    "has_trading_incentive": false
+                },
+                "last": 51.1706,
+                "volume": 3477409.41612378,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112215,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 95.631,
+                    "eth": 3902,
+                    "usd": 8639273
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.042966,
+                "timestamp": "2025-03-05T12:59:32+00:00",
+                "last_traded_at": "2025-03-05T12:59:32+00:00",
+                "last_fetch_at": "2025-03-05T12:59:32+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": null,
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "THB",
+                "market": {
+                    "name": "Bitkub",
+                    "identifier": "bitkub",
+                    "has_trading_incentive": false
+                },
+                "last": 83.69,
+                "volume": 2696932.93257911,
+                "converted_last": {
+                    "btc": 2.752e-05,
+                    "eth": 0.00112335,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 74.232,
+                    "eth": 3030,
+                    "usd": 6704629
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.035877,
+                "timestamp": "2025-03-05T12:53:59+00:00",
+                "last_traded_at": "2025-03-05T12:53:59+00:00",
+                "last_fetch_at": "2025-03-05T12:53:59+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitkub.com/market/XRP",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "BitStorage",
+                    "identifier": "bitstorage",
+                    "has_trading_incentive": false
+                },
+                "last": 2.481,
+                "volume": 8988305.0,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111947,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 246.756,
+                    "eth": 10062,
+                    "usd": 22301210
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.112572,
+                "timestamp": "2025-03-05T12:56:39+00:00",
+                "last_traded_at": "2025-03-05T12:56:39+00:00",
+                "last_fetch_at": "2025-03-05T12:56:39+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bitstorage.finance/market/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "AscendEX (BitMax)",
+                    "identifier": "bitmax",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48888,
+                "volume": 48814335.0,
+                "converted_last": {
+                    "btc": 2.755e-05,
+                    "eth": 0.00112426,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 1345,
+                    "eth": 54880,
+                    "usd": 121504049
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.620946,
+                "timestamp": "2025-03-05T12:59:49+00:00",
+                "last_traded_at": "2025-03-05T12:59:49+00:00",
+                "last_fetch_at": "2025-03-05T12:59:49+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://ascendex.com/en/cashtrade-spottrading/usdt/xrp",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "KuCoin",
+                    "identifier": "kucoin",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48495,
+                "volume": 1769482.4994,
+                "converted_last": {
+                    "btc": 2.751e-05,
+                    "eth": 0.0011223,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 48.68309,
+                    "eth": 1986,
+                    "usd": 4397968
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.024155,
+                "timestamp": "2025-03-05T12:58:20+00:00",
+                "last_traded_at": "2025-03-05T12:58:20+00:00",
+                "last_fetch_at": "2025-03-05T13:00:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.kucoin.com/trade/XRP-USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "JPY",
+                "market": {
+                    "name": "bitFlyer",
+                    "identifier": "bitflyer",
+                    "has_trading_incentive": false
+                },
+                "last": 372.24,
+                "volume": 8165054.772961,
+                "converted_last": {
+                    "btc": 2.757e-05,
+                    "eth": 0.00112508,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 225.13,
+                    "eth": 9186,
+                    "usd": 20338171
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.120744,
+                "timestamp": "2025-03-05T12:59:26+00:00",
+                "last_traded_at": "2025-03-05T12:59:26+00:00",
+                "last_fetch_at": "2025-03-05T12:59:26+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bitflyer.com/en-jp/ex/simpleex",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "Gemini",
+                    "identifier": "gemini",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48403,
+                "volume": 3495119.70051,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112199,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 96.104,
+                    "eth": 3921,
+                    "usd": 8681982
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.054326,
+                "timestamp": "2025-03-05T12:59:27+00:00",
+                "last_traded_at": "2025-03-05T12:59:27+00:00",
+                "last_fetch_at": "2025-03-05T12:59:27+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.gemini.com/trade/XRPUSD",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "BigONE",
+                    "identifier": "bigone",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4811,
+                "volume": 38276366.0,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00111965,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 1051,
+                    "eth": 42856,
+                    "usd": 94962192
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.580963,
+                "timestamp": "2025-03-05T12:55:46+00:00",
+                "last_traded_at": "2025-03-05T12:55:46+00:00",
+                "last_fetch_at": "2025-03-05T12:55:46+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://big.one/trade/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "XBT",
+                "market": {
+                    "name": "Kraken",
+                    "identifier": "kraken",
+                    "has_trading_incentive": false
+                },
+                "last": 2.749e-05,
+                "volume": 1871675.9772477,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112163,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 51.452,
+                    "eth": 2099,
+                    "usd": 4647867
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.036377,
+                "timestamp": "2025-03-05T12:59:54+00:00",
+                "last_traded_at": "2025-03-05T12:59:54+00:00",
+                "last_fetch_at": "2025-03-05T12:59:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://pro.kraken.com/app/trade/XRP-XBT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Hotcoin",
+                    "identifier": "hotcoin_global",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4829,
+                "volume": 8536219.0223,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112127,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 234.676,
+                    "eth": 9571,
+                    "usd": 21198980
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.165509,
+                "timestamp": "2025-03-05T12:54:49+00:00",
+                "last_traded_at": "2025-03-05T12:54:49+00:00",
+                "last_fetch_at": "2025-03-05T12:54:49+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.hotcoin.com/currencyExchange/xrp_usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "MYR",
+                "market": {
+                    "name": "Luno",
+                    "identifier": "luno",
+                    "has_trading_incentive": false
+                },
+                "last": 11.0415,
+                "volume": 1865636.0,
+                "converted_last": {
+                    "btc": 2.756e-05,
+                    "eth": 0.00112411,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 51.42,
+                    "eth": 2097,
+                    "usd": 4650507
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.035273,
+                "timestamp": "2025-03-05T12:57:39+00:00",
+                "last_traded_at": "2025-03-05T12:57:39+00:00",
+                "last_fetch_at": "2025-03-05T12:57:39+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.luno.com/trade/XRPMYR",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Coinstore",
+                    "identifier": "coinstore",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4833,
+                "volume": 15937590.0,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00111995,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 429.622,
+                    "eth": 17523,
+                    "usd": 38848207
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.305946,
+                "timestamp": "2025-03-05T12:58:37+00:00",
+                "last_traded_at": "2025-03-05T12:58:37+00:00",
+                "last_fetch_at": "2025-03-05T12:58:37+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinstore.com/#/spot/XRPUSDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "ETH",
+                "market": {
+                    "name": "FMCPAY",
+                    "identifier": "fmcpay",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0011212,
+                "volume": 1296828.777974,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112085,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 35.995316,
+                    "eth": 1468,
+                    "usd": 3254849
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.026757,
+                "timestamp": "2025-03-05T12:58:16+00:00",
+                "last_traded_at": "2025-03-05T12:58:16+00:00",
+                "last_fetch_at": "2025-03-05T12:58:16+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://fmcpay.com/exchange/XRP_ETH",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "ethereum"
+            },
+            {
+                "base": "XRP",
+                "target": "JPY",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 372.98,
+                "volume": 1795208.0,
+                "converted_last": {
+                    "btc": 2.753e-05,
+                    "eth": 0.00112088,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 48.366897,
+                    "eth": 1969,
+                    "usd": 4386221
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.03743,
+                "timestamp": "2025-03-05T12:45:10+00:00",
+                "last_traded_at": "2025-03-05T12:45:10+00:00",
+                "last_fetch_at": "2025-03-05T12:45:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_JPY?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Binance US",
+                    "identifier": "binance_us",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4824,
+                "volume": 1275875.05712214,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112134,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 35.064777,
+                    "eth": 1431,
+                    "usd": 3167520
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.032188,
+                "timestamp": "2025-03-05T12:59:40+00:00",
+                "last_traded_at": "2025-03-05T12:59:40+00:00",
+                "last_fetch_at": "2025-03-05T12:59:40+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.us/trade/pro/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "BitMart",
+                    "identifier": "bitmart",
+                    "has_trading_incentive": false
+                },
+                "last": 2.484,
+                "volume": 6527012.0,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112027,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 179.274,
+                    "eth": 7312,
+                    "usd": 16210675
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.177503,
+                "timestamp": "2025-03-05T12:55:20+00:00",
+                "last_traded_at": "2025-03-05T12:55:20+00:00",
+                "last_fetch_at": "2025-03-05T12:58:18+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitmart.com/trade/en?symbol=XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Bitget",
+                    "identifier": "bitget",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4835,
+                "volume": 1556100.0,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112189,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 42.167667,
+                    "eth": 1720,
+                    "usd": 3809148
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.060374,
+                "timestamp": "2025-03-05T12:59:31+00:00",
+                "last_traded_at": "2025-03-05T12:59:31+00:00",
+                "last_fetch_at": "2025-03-05T12:59:31+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitget.com/spot/XRPUSDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "BTC",
+                "market": {
+                    "name": "Bybit",
+                    "identifier": "bybit_spot",
+                    "has_trading_incentive": false
+                },
+                "last": 2.746e-05,
+                "volume": 1082420.7,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00112049,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 30.571199,
+                    "eth": 1247,
+                    "usd": 2761787
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.036377,
+                "timestamp": "2025-03-05T12:58:17+00:00",
+                "last_traded_at": "2025-03-05T12:58:17+00:00",
+                "last_fetch_at": "2025-03-05T12:59:11+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bybit.com/trade/spot/XRP/BTC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Dex-Trade",
+                    "identifier": "dextrade",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4811,
+                "volume": 7619560.1838032,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112148,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 209.323,
+                    "eth": 8545,
+                    "usd": 18905981
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.269629,
+                "timestamp": "2025-03-05T12:54:03+00:00",
+                "last_traded_at": "2025-03-05T12:54:03+00:00",
+                "last_fetch_at": "2025-03-05T12:54:03+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://dex-trade.com/spot/trading/XRPUSDT?interface=classic",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "JPY",
+                "market": {
+                    "name": "Coincheck",
+                    "identifier": "coincheck",
+                    "has_trading_incentive": false
+                },
+                "last": 371.884,
+                "volume": 4467920.75440562,
+                "converted_last": {
+                    "btc": 2.755e-05,
+                    "eth": 0.00112401,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 123.074,
+                    "eth": 5022,
+                    "usd": 11118411
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.162318,
+                "timestamp": "2025-03-05T12:59:30+00:00",
+                "last_traded_at": "2025-03-05T12:59:30+00:00",
+                "last_fetch_at": "2025-03-05T12:59:30+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://coincheck.com/buys?pair=xrp_jpy",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "EXMO",
+                    "identifier": "exmo",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48124018,
+                "volume": 1383107.02239975,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112081,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 37.994065,
+                    "eth": 1550,
+                    "usd": 3432132
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.072162,
+                "timestamp": "2025-03-05T12:59:32+00:00",
+                "last_traded_at": "2025-03-05T12:59:32+00:00",
+                "last_fetch_at": "2025-03-05T12:59:32+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exmo.com/en/trade/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "ETH",
+                "market": {
+                    "name": "DigiFinex",
+                    "identifier": "digifinex",
+                    "has_trading_incentive": false
+                },
+                "last": 0.00112092,
+                "volume": 899177.0,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.00112071,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 24.703763,
+                    "eth": 1008,
+                    "usd": 2231706
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.046391,
+                "timestamp": "2025-03-05T13:00:12+00:00",
+                "last_traded_at": "2025-03-05T13:00:12+00:00",
+                "last_fetch_at": "2025-03-05T13:00:12+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/XRP",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "ethereum"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Fastex",
+                    "identifier": "fastex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48339,
+                "volume": 4136756.365677,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00111999,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 113.594,
+                    "eth": 4633,
+                    "usd": 10271644
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.259873,
+                "timestamp": "2025-03-05T12:58:06+00:00",
+                "last_traded_at": "2025-03-05T12:58:06+00:00",
+                "last_fetch_at": "2025-03-05T12:58:06+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.fastex.com/trade/xrp-usdt",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "BRL",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 14.647,
+                "volume": 524715.0,
+                "converted_last": {
+                    "btc": 2.755e-05,
+                    "eth": 0.00112376,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 14.289018,
+                    "eth": 582.88,
+                    "usd": 1290852
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.034127,
+                "timestamp": "2025-03-05T13:00:07+00:00",
+                "last_traded_at": "2025-03-05T13:00:07+00:00",
+                "last_fetch_at": "2025-03-05T13:00:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_BRL?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "PointPay",
+                    "identifier": "pointpay",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48229252,
+                "volume": 1169922.75074251,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112169,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 31.739802,
+                    "eth": 1296,
+                    "usd": 2866722
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.079968,
+                "timestamp": "2025-03-05T12:54:27+00:00",
+                "last_traded_at": "2025-03-05T12:54:27+00:00",
+                "last_fetch_at": "2025-03-05T12:54:27+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.pointpay.io/trade-classic/XRP_USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Deribit Spot",
+                    "identifier": "deribit_spot",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4818,
+                "volume": 1276555.0,
+                "converted_last": {
+                    "btc": 2.744e-05,
+                    "eth": 0.00111925,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 34.577573,
+                    "eth": 1410,
+                    "usd": 3126651
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.088613,
+                "timestamp": "2025-03-05T12:58:07+00:00",
+                "last_traded_at": "2025-03-05T12:58:07+00:00",
+                "last_fetch_at": "2025-03-05T12:58:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.deribit.com/spot/XRP_USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "EUR",
+                "market": {
+                    "name": "MEXC",
+                    "identifier": "mxc",
+                    "has_trading_incentive": false
+                },
+                "last": 2.3208,
+                "volume": 2283274.68,
+                "converted_last": {
+                    "btc": 2.75e-05,
+                    "eth": 0.00112228,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 62.786,
+                    "eth": 2562,
+                    "usd": 5670832
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.176534,
+                "timestamp": "2025-03-05T12:53:54+00:00",
+                "last_traded_at": "2025-03-05T12:53:54+00:00",
+                "last_fetch_at": "2025-03-05T12:53:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.mexc.com/exchange/XRP_EUR",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "WhiteBIT",
+                    "identifier": "whitebit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.48079,
+                "volume": 2172702.0,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00112101,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 59.663,
+                    "eth": 2436,
+                    "usd": 5388744
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.178477,
+                "timestamp": "2025-03-05T12:54:23+00:00",
+                "last_traded_at": "2025-03-05T12:54:23+00:00",
+                "last_fetch_at": "2025-03-05T12:54:23+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://whitebit.com/trade/XRP_USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitcointry",
+                    "identifier": "bitcointry_exchange",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4807,
+                "volume": 188523.87,
+                "converted_last": {
+                    "btc": 2.747e-05,
+                    "eth": 0.0011213,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 5.075208,
+                    "eth": 207.184,
+                    "usd": 458390
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.021461,
+                "timestamp": "2025-03-05T12:54:27+00:00",
+                "last_traded_at": "2025-03-05T12:54:27+00:00",
+                "last_fetch_at": "2025-03-05T12:54:27+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bitcointry.com/en/exchange/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "JPY",
+                "market": {
+                    "name": "OKJ",
+                    "identifier": "okcoin-japan",
+                    "has_trading_incentive": false
+                },
+                "last": 373.84,
+                "volume": 1180539.566,
+                "converted_last": {
+                    "btc": 2.763e-05,
+                    "eth": 0.0011211,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 32.063919,
+                    "eth": 1301,
+                    "usd": 2906143
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.099246,
+                "timestamp": "2025-03-05T12:34:17+00:00",
+                "last_traded_at": "2025-03-05T12:34:17+00:00",
+                "last_fetch_at": "2025-03-05T12:34:17+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okcoin.jp/markets/spot-info/xrp-jpy",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "SGD",
+                "market": {
+                    "name": "Independent Reserve",
+                    "identifier": "independent_reserve",
+                    "has_trading_incentive": false
+                },
+                "last": 3.29934,
+                "volume": 611332.17648,
+                "converted_last": {
+                    "btc": 2.732e-05,
+                    "eth": 0.001114,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 16.700905,
+                    "eth": 681.026,
+                    "usd": 1509386
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.06831,
+                "timestamp": "2025-03-05T12:57:01+00:00",
+                "last_traded_at": "2025-03-05T12:57:01+00:00",
+                "last_fetch_at": "2025-03-05T12:57:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.independentreserve.com/market#xrp",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "bitcastle",
+                    "identifier": "bitcastle",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4795,
+                "volume": 572476.06,
+                "converted_last": {
+                    "btc": 2.736e-05,
+                    "eth": 0.00111635,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 15.421423,
+                    "eth": 629.236,
+                    "usd": 1393556
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.068537,
+                "timestamp": "2025-03-05T12:53:30+00:00",
+                "last_traded_at": "2025-03-05T12:53:30+00:00",
+                "last_fetch_at": "2025-03-05T12:53:30+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bitcastle.io/en/exchange/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "AUD",
+                "market": {
+                    "name": "BTCMarkets",
+                    "identifier": "btcmarkets",
+                    "has_trading_incentive": false
+                },
+                "last": 3.9503,
+                "volume": 1653772.36325548,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111946,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 45.400473,
+                    "eth": 1851,
+                    "usd": 4103182
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.186803,
+                "timestamp": "2025-03-05T12:56:38+00:00",
+                "last_traded_at": "2025-03-05T12:56:38+00:00",
+                "last_fetch_at": "2025-03-05T12:56:38+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": null,
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "TRY",
+                "market": {
+                    "name": "OKX",
+                    "identifier": "okex",
+                    "has_trading_incentive": false
+                },
+                "last": 90.79,
+                "volume": 88816.31016,
+                "converted_last": {
+                    "btc": 2.759e-05,
+                    "eth": 0.00112557,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 2.406915,
+                    "eth": 98.205,
+                    "usd": 217425
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011013,
+                "timestamp": "2025-03-05T12:59:35+00:00",
+                "last_traded_at": "2025-03-05T12:59:35+00:00",
+                "last_fetch_at": "2025-03-05T12:59:35+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okx.com/trade-spot/xrp-try",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Icrypex",
+                    "identifier": "icrypex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4771,
+                "volume": 2394690.394,
+                "converted_last": {
+                    "btc": 2.739e-05,
+                    "eth": 0.00111716,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 65.591,
+                    "eth": 2675,
+                    "usd": 5931001
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.305614,
+                "timestamp": "2025-03-05T12:58:21+00:00",
+                "last_traded_at": "2025-03-05T12:58:21+00:00",
+                "last_fetch_at": "2025-03-05T12:58:21+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.icrypex.com/en/trade/spot/XRPUSDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "GBP",
+                "market": {
+                    "name": "Bitstamp",
+                    "identifier": "bitstamp",
+                    "has_trading_incentive": false
+                },
+                "last": 1.93629,
+                "volume": 359915.11468465,
+                "converted_last": {
+                    "btc": 2.748e-05,
+                    "eth": 0.00112127,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 9.890067,
+                    "eth": 403.56,
+                    "usd": 893464
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.05876,
+                "timestamp": "2025-03-05T12:54:29+00:00",
+                "last_traded_at": "2025-03-05T12:54:29+00:00",
+                "last_fetch_at": "2025-03-05T12:59:30+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitstamp.net/markets/xrp/gbp/",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "BTC",
+                "market": {
+                    "name": "WhiteBIT",
+                    "identifier": "whitebit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.7451e-05,
+                "volume": 974362.0,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111939,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 26.747211,
+                    "eth": 1091,
+                    "usd": 2417346
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.16369,
+                "timestamp": "2025-03-05T12:56:50+00:00",
+                "last_traded_at": "2025-03-05T12:56:50+00:00",
+                "last_fetch_at": "2025-03-05T12:56:50+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://whitebit.com/trade/XRP_BTC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "XRP",
+                "target": "AUD",
+                "market": {
+                    "name": "Independent Reserve",
+                    "identifier": "independent_reserve",
+                    "has_trading_incentive": false
+                },
+                "last": 3.92742,
+                "volume": 611332.17648,
+                "converted_last": {
+                    "btc": 2.729e-05,
+                    "eth": 0.00111297,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 16.685498,
+                    "eth": 680.397,
+                    "usd": 1507994
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.118077,
+                "timestamp": "2025-03-05T12:57:01+00:00",
+                "last_traded_at": "2025-03-05T12:57:01+00:00",
+                "last_fetch_at": "2025-03-05T12:57:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.independentreserve.com/market#xrp",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Bitvavo",
+                    "identifier": "bitvavo",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4723,
+                "volume": 327786.96781,
+                "converted_last": {
+                    "btc": 2.735e-05,
+                    "eth": 0.0011154,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 8.966427,
+                    "eth": 365.615,
+                    "usd": 810329
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.068485,
+                "timestamp": "2025-03-05T12:49:40+00:00",
+                "last_traded_at": "2025-03-05T12:49:40+00:00",
+                "last_fetch_at": "2025-03-05T12:56:27+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://account.bitvavo.com/markets/XRP-USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "Independent Reserve",
+                    "identifier": "independent_reserve",
+                    "has_trading_incentive": false
+                },
+                "last": 2.46892,
+                "volume": 608441.7043833333,
+                "converted_last": {
+                    "btc": 2.734e-05,
+                    "eth": 0.00111392,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 16.634225,
+                    "eth": 677.756,
+                    "usd": 1502194
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.124437,
+                "timestamp": "2025-03-05T12:51:19+00:00",
+                "last_traded_at": "2025-03-05T12:51:19+00:00",
+                "last_fetch_at": "2025-03-05T12:51:19+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.independentreserve.com/market#xrp",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "WhiteBIT",
+                    "identifier": "whitebit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.50159,
+                "volume": 680831.0,
+                "converted_last": {
+                    "btc": 2.766e-05,
+                    "eth": 0.00112811,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 18.831744,
+                    "eth": 768.049,
+                    "usd": 1703160
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.135912,
+                "timestamp": "2025-03-05T12:57:58+00:00",
+                "last_traded_at": "2025-03-05T12:57:58+00:00",
+                "last_fetch_at": "2025-03-05T12:57:58+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://whitebit.com/trade/XRP_USD",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "Bittime",
+                    "identifier": "bittime",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4844,
+                "volume": 84251.0,
+                "converted_last": {
+                    "btc": 2.749e-05,
+                    "eth": 0.00112119,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 2.240791,
+                    "eth": 91.376,
+                    "usd": 202451
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.020126,
+                "timestamp": "2025-03-05T12:55:30+00:00",
+                "last_traded_at": "2025-03-05T12:55:30+00:00",
+                "last_fetch_at": "2025-03-05T12:55:30+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bittime.com/en/trade/XRP-USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USD",
+                "market": {
+                    "name": "Bitso",
+                    "identifier": "bitso",
+                    "has_trading_incentive": false
+                },
+                "last": 2.50034,
+                "volume": 1312524.58467036,
+                "converted_last": {
+                    "btc": 2.761e-05,
+                    "eth": 0.00112286,
+                    "usd": 2.5
+                },
+                "converted_volume": {
+                    "btc": 36.24229,
+                    "eth": 1474,
+                    "usd": 3281758
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.292223,
+                "timestamp": "2025-03-05T12:38:51+00:00",
+                "last_traded_at": "2025-03-05T12:38:51+00:00",
+                "last_fetch_at": "2025-03-05T12:38:51+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": null,
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "VALR",
+                    "identifier": "valr",
+                    "has_trading_incentive": false
+                },
+                "last": 2.472,
+                "volume": 349970.1218,
+                "converted_last": {
+                    "btc": 2.733e-05,
+                    "eth": 0.00111534,
+                    "usd": 2.47
+                },
+                "converted_volume": {
+                    "btc": 9.368534,
+                    "eth": 382.278,
+                    "usd": 847142
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.088602,
+                "timestamp": "2025-03-05T12:58:57+00:00",
+                "last_traded_at": "2025-03-05T12:58:57+00:00",
+                "last_fetch_at": "2025-03-05T12:58:57+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.valr.com/exchange/XRP/USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "USDT",
+                "market": {
+                    "name": "QMall",
+                    "identifier": "qmall",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4904,
+                "volume": 3753092.4132123,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111754,
+                    "usd": 2.49
+                },
+                "converted_volume": {
+                    "btc": 100.844,
+                    "eth": 4105,
+                    "usd": 9148080
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.998985,
+                "timestamp": "2025-03-05T12:44:38+00:00",
+                "last_traded_at": "2025-03-05T12:44:38+00:00",
+                "last_fetch_at": "2025-03-05T12:44:38+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://qmall.io/trade/XRP_USDT",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "CAD",
+                "market": {
+                    "name": "Kraken",
+                    "identifier": "kraken",
+                    "has_trading_incentive": false
+                },
+                "last": 3.57644,
+                "volume": 557596.70307092,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00112043,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 15.312036,
+                    "eth": 624.75,
+                    "usd": 1383188
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.181615,
+                "timestamp": "2025-03-05T12:59:54+00:00",
+                "last_traded_at": "2025-03-05T12:59:54+00:00",
+                "last_fetch_at": "2025-03-05T12:59:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://pro.kraken.com/app/trade/XRP-CAD",
+                "token_info_url": null,
+                "coin_id": "ripple"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Fastex",
+                    "identifier": "fastex",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4829,
+                "volume": 780427.4039392,
+                "converted_last": {
+                    "btc": 2.745e-05,
+                    "eth": 0.00111975,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 21.425603,
+                    "eth": 873.882,
+                    "usd": 1937394
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.273488,
+                "timestamp": "2025-03-05T12:58:06+00:00",
+                "last_traded_at": "2025-03-05T12:58:06+00:00",
+                "last_fetch_at": "2025-03-05T12:58:06+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.fastex.com/trade/xrp-usdc",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "XRP",
+                "target": "USDC",
+                "market": {
+                    "name": "Tapbit",
+                    "identifier": "tapbit",
+                    "has_trading_incentive": false
+                },
+                "last": 2.4812,
+                "volume": 1344251.0,
+                "converted_last": {
+                    "btc": 2.746e-05,
+                    "eth": 0.00112087,
+                    "usd": 2.48
+                },
+                "converted_volume": {
+                    "btc": 36.47702,
+                    "eth": 1489,
+                    "usd": 3294585
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.502816,
+                "timestamp": "2025-03-05T12:53:44+00:00",
+                "last_traded_at": "2025-03-05T12:53:44+00:00",
+                "last_fetch_at": "2025-03-05T12:53:44+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.tapbit.com/spot/exchange/XRP_USDC",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "usd-coin"
+            }
+        ]
+    }
+}

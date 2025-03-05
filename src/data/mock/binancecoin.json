@@ -1,0 +1,3196 @@
+{
+    "data": {
+        "name": "BNB",
+        "tickers": [
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "P2B",
+                    "identifier": "p2pb2b",
+                    "has_trading_incentive": false
+                },
+                "last": 597.8,
+                "volume": 70412.117,
+                "converted_last": {
+                    "btc": 0.00661007,
+                    "eth": 0.26960382,
+                    "usd": 597.71
+                },
+                "converted_volume": {
+                    "btc": 465.429,
+                    "eth": 18983,
+                    "usd": 42086074
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016731,
+                "timestamp": "2025-03-05T12:58:35+00:00",
+                "last_traded_at": "2025-03-05T12:58:35+00:00",
+                "last_fetch_at": "2025-03-05T12:58:35+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": null,
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "MEXC",
+                    "identifier": "mxc",
+                    "has_trading_incentive": false
+                },
+                "last": 597.77,
+                "volume": 28144.399,
+                "converted_last": {
+                    "btc": 0.00661798,
+                    "eth": 0.27004397,
+                    "usd": 597.86
+                },
+                "converted_volume": {
+                    "btc": 186.259,
+                    "eth": 7600,
+                    "usd": 16826547
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011672,
+                "timestamp": "2025-03-05T12:59:21+00:00",
+                "last_traded_at": "2025-03-05T12:59:21+00:00",
+                "last_fetch_at": "2025-03-05T12:59:21+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.mexc.com/exchange/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "HTX",
+                    "identifier": "huobi",
+                    "has_trading_incentive": false
+                },
+                "last": 598.16,
+                "volume": 28528.080772277044,
+                "converted_last": {
+                    "btc": 0.00662173,
+                    "eth": 0.2699806,
+                    "usd": 598.18
+                },
+                "converted_volume": {
+                    "btc": 184.288,
+                    "eth": 7514,
+                    "usd": 16647740
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011697,
+                "timestamp": "2025-03-05T13:00:37+00:00",
+                "last_traded_at": "2025-03-05T13:00:37+00:00",
+                "last_fetch_at": "2025-03-05T13:00:37+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.huobi.com/en-us/exchange/bnb_usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "LBank",
+                    "identifier": "lbank",
+                    "has_trading_incentive": false
+                },
+                "last": 598.0,
+                "volume": 30679.06,
+                "converted_last": {
+                    "btc": 0.00661805,
+                    "eth": 0.26987306,
+                    "usd": 597.93
+                },
+                "converted_volume": {
+                    "btc": 203.036,
+                    "eth": 8279,
+                    "usd": 18343856
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016764,
+                "timestamp": "2025-03-05T12:55:24+00:00",
+                "last_traded_at": "2025-03-05T12:55:24+00:00",
+                "last_fetch_at": "2025-03-05T12:55:24+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.lbank.com/trade/bnb_usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "DigiFinex",
+                    "identifier": "digifinex",
+                    "has_trading_incentive": false
+                },
+                "last": 598.42,
+                "volume": 22845.208,
+                "converted_last": {
+                    "btc": 0.00662383,
+                    "eth": 0.26997263,
+                    "usd": 598.42
+                },
+                "converted_volume": {
+                    "btc": 151.323,
+                    "eth": 6168,
+                    "usd": 13670945
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.015013,
+                "timestamp": "2025-03-05T13:01:09+00:00",
+                "last_traded_at": "2025-03-05T13:01:09+00:00",
+                "last_fetch_at": "2025-03-05T13:01:09+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/BNB",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitunix",
+                    "identifier": "bitunix",
+                    "has_trading_incentive": false
+                },
+                "last": 597.75,
+                "volume": 15845.106,
+                "converted_last": {
+                    "btc": 0.00661856,
+                    "eth": 0.27018826,
+                    "usd": 597.78
+                },
+                "converted_volume": {
+                    "btc": 104.873,
+                    "eth": 4281,
+                    "usd": 9472117
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011672,
+                "timestamp": "2025-03-05T12:54:34+00:00",
+                "last_traded_at": "2025-03-05T12:54:34+00:00",
+                "last_fetch_at": "2025-03-05T12:54:34+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitunix.com/spot-trade/BNBUSDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Gate.io",
+                    "identifier": "gate",
+                    "has_trading_incentive": false
+                },
+                "last": 597.9,
+                "volume": 19266.7178,
+                "converted_last": {
+                    "btc": 0.00661885,
+                    "eth": 0.26986325,
+                    "usd": 597.92
+                },
+                "converted_volume": {
+                    "btc": 122.822,
+                    "eth": 5008,
+                    "usd": 11095111
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016736,
+                "timestamp": "2025-03-05T13:00:50+00:00",
+                "last_traded_at": "2025-03-05T13:00:50+00:00",
+                "last_fetch_at": "2025-03-05T13:00:50+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.gate.io/trade/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "BTC",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.006606,
+                "volume": 21326.097,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26919925,
+                    "usd": 597.46
+                },
+                "converted_volume": {
+                    "btc": 143.969,
+                    "eth": 5867,
+                    "usd": 13020902
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.015175,
+                "timestamp": "2025-03-05T12:48:04+00:00",
+                "last_traded_at": "2025-03-05T12:48:04+00:00",
+                "last_fetch_at": "2025-03-05T12:48:04+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BNB_BTC?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bybit",
+                    "identifier": "bybit_spot",
+                    "has_trading_incentive": false
+                },
+                "last": 598.25,
+                "volume": 12982.46659,
+                "converted_last": {
+                    "btc": 0.00662195,
+                    "eth": 0.26989594,
+                    "usd": 598.25
+                },
+                "converted_volume": {
+                    "btc": 83.593,
+                    "eth": 3407,
+                    "usd": 7552064
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011672,
+                "timestamp": "2025-03-05T13:00:27+00:00",
+                "last_traded_at": "2025-03-05T13:00:27+00:00",
+                "last_fetch_at": "2025-03-05T13:01:27+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bybit.com/trade/spot/BNB/USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "OKX",
+                    "identifier": "okex",
+                    "has_trading_incentive": false
+                },
+                "last": 598.1,
+                "volume": 15283.42057,
+                "converted_last": {
+                    "btc": 0.00662029,
+                    "eth": 0.26982827,
+                    "usd": 598.1
+                },
+                "converted_volume": {
+                    "btc": 98.884,
+                    "eth": 4030,
+                    "usd": 8933445
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016717,
+                "timestamp": "2025-03-05T13:01:26+00:00",
+                "last_traded_at": "2025-03-05T13:01:26+00:00",
+                "last_fetch_at": "2025-03-05T13:01:26+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okx.com/trade-spot/bnb-usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Ourbit",
+                    "identifier": "ourbit",
+                    "has_trading_incentive": false
+                },
+                "last": 598.1,
+                "volume": 13813.465,
+                "converted_last": {
+                    "btc": 0.00662106,
+                    "eth": 0.27008737,
+                    "usd": 598.14
+                },
+                "converted_volume": {
+                    "btc": 88.867,
+                    "eth": 3625,
+                    "usd": 8028168
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016717,
+                "timestamp": "2025-03-05T13:00:24+00:00",
+                "last_traded_at": "2025-03-05T13:00:24+00:00",
+                "last_fetch_at": "2025-03-05T13:00:24+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.ourbit.com/exchange/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Azbit",
+                    "identifier": "azbit",
+                    "has_trading_incentive": false
+                },
+                "last": 597.6,
+                "volume": 10235.02932,
+                "converted_last": {
+                    "btc": 0.0066161,
+                    "eth": 0.26994481,
+                    "usd": 597.65
+                },
+                "converted_volume": {
+                    "btc": 65.832,
+                    "eth": 2686,
+                    "usd": 5946861
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016739,
+                "timestamp": "2025-03-05T12:59:56+00:00",
+                "last_traded_at": "2025-03-05T12:59:56+00:00",
+                "last_fetch_at": "2025-03-05T12:59:56+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://azbit.com/exchange/BNB_USDT?referralCode=OH5QDS1",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Biconomy.com",
+                    "identifier": "biconomy",
+                    "has_trading_incentive": false
+                },
+                "last": 597.7,
+                "volume": 11118.1950538525,
+                "converted_last": {
+                    "btc": 0.00660267,
+                    "eth": 0.26853569,
+                    "usd": 597.86
+                },
+                "converted_volume": {
+                    "btc": 71.363,
+                    "eth": 2902,
+                    "usd": 6461799
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016725,
+                "timestamp": "2025-03-05T12:39:26+00:00",
+                "last_traded_at": "2025-03-05T12:39:26+00:00",
+                "last_fetch_at": "2025-03-05T12:39:26+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.biconomy.com/exchange/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Hibt",
+                    "identifier": "hibt",
+                    "has_trading_incentive": false
+                },
+                "last": 598.1,
+                "volume": 22935.59583994666,
+                "converted_last": {
+                    "btc": 0.00661916,
+                    "eth": 0.26990647,
+                    "usd": 598.07
+                },
+                "converted_volume": {
+                    "btc": 148.352,
+                    "eth": 6049,
+                    "usd": 13404182
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.033445,
+                "timestamp": "2025-03-05T12:55:35+00:00",
+                "last_traded_at": "2025-03-05T12:55:35+00:00",
+                "last_fetch_at": "2025-03-05T12:55:35+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://hibt.com/trade/BNB-USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "AscendEX (BitMax)",
+                    "identifier": "bitmax",
+                    "has_trading_incentive": false
+                },
+                "last": 598.5,
+                "volume": 66404.089,
+                "converted_last": {
+                    "btc": 0.00662472,
+                    "eth": 0.27000873,
+                    "usd": 598.5
+                },
+                "converted_volume": {
+                    "btc": 439.908,
+                    "eth": 17930,
+                    "usd": 39742603
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.100217,
+                "timestamp": "2025-03-05T13:01:31+00:00",
+                "last_traded_at": "2025-03-05T13:01:31+00:00",
+                "last_fetch_at": "2025-03-05T13:01:31+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://ascendex.com/en/cashtrade-spottrading/usdt/bnb",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Hotcoin",
+                    "identifier": "hotcoin_global",
+                    "has_trading_incentive": false
+                },
+                "last": 597.88,
+                "volume": 6563.7636,
+                "converted_last": {
+                    "btc": 0.00661019,
+                    "eth": 0.26954228,
+                    "usd": 597.85
+                },
+                "converted_volume": {
+                    "btc": 43.387736,
+                    "eth": 1769,
+                    "usd": 3924141
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011715,
+                "timestamp": "2025-03-05T12:57:29+00:00",
+                "last_traded_at": "2025-03-05T12:57:29+00:00",
+                "last_fetch_at": "2025-03-05T12:57:29+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.hotcoin.com/currencyExchange/bnb_usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bilaxy",
+                    "identifier": "bilaxy",
+                    "has_trading_incentive": false
+                },
+                "last": 598.06,
+                "volume": 10986.266,
+                "converted_last": {
+                    "btc": 0.00662062,
+                    "eth": 0.26993546,
+                    "usd": 598.08
+                },
+                "converted_volume": {
+                    "btc": 72.736,
+                    "eth": 2966,
+                    "usd": 6570614
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.020048,
+                "timestamp": "2025-03-05T13:00:55+00:00",
+                "last_traded_at": "2025-03-05T13:00:55+00:00",
+                "last_fetch_at": "2025-03-05T13:00:55+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bilaxy.com/trade/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "KuCoin",
+                    "identifier": "kucoin",
+                    "has_trading_incentive": false
+                },
+                "last": 598.346,
+                "volume": 5062.8581,
+                "converted_last": {
+                    "btc": 0.00662301,
+                    "eth": 0.26993925,
+                    "usd": 598.34
+                },
+                "converted_volume": {
+                    "btc": 33.531378,
+                    "eth": 1367,
+                    "usd": 3029322
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.010167,
+                "timestamp": "2025-03-05T13:01:10+00:00",
+                "last_traded_at": "2025-03-05T13:01:10+00:00",
+                "last_fetch_at": "2025-03-05T13:01:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.kucoin.com/trade/BNB-USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "FMCPAY",
+                    "identifier": "fmcpay",
+                    "has_trading_incentive": false
+                },
+                "last": 597.53,
+                "volume": 7514.541,
+                "converted_last": {
+                    "btc": 0.00660709,
+                    "eth": 0.2695985,
+                    "usd": 597.44
+                },
+                "converted_volume": {
+                    "btc": 48.688479,
+                    "eth": 1987,
+                    "usd": 4402618
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.016692,
+                "timestamp": "2025-03-05T12:58:58+00:00",
+                "last_traded_at": "2025-03-05T12:58:58+00:00",
+                "last_fetch_at": "2025-03-05T12:58:58+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://fmcpay.com/exchange/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "CoinW",
+                    "identifier": "coinw",
+                    "has_trading_incentive": false
+                },
+                "last": 598.388,
+                "volume": 18574.02,
+                "converted_last": {
+                    "btc": 0.00662348,
+                    "eth": 0.2699582,
+                    "usd": 598.38
+                },
+                "converted_volume": {
+                    "btc": 123.025,
+                    "eth": 5014,
+                    "usd": 11114402
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.04848,
+                "timestamp": "2025-03-05T13:01:19+00:00",
+                "last_traded_at": "2025-03-05T13:01:19+00:00",
+                "last_fetch_at": "2025-03-05T13:01:19+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinw.com/spot/bnbusdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitget",
+                    "identifier": "bitget",
+                    "has_trading_incentive": false
+                },
+                "last": 598.3,
+                "volume": 3562.9355,
+                "converted_last": {
+                    "btc": 0.0066225,
+                    "eth": 0.2699185,
+                    "usd": 598.3
+                },
+                "converted_volume": {
+                    "btc": 22.788635,
+                    "eth": 928.814,
+                    "usd": 2058792
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.01672,
+                "timestamp": "2025-03-05T13:01:18+00:00",
+                "last_traded_at": "2025-03-05T13:01:18+00:00",
+                "last_fetch_at": "2025-03-05T13:01:18+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitget.com/spot/BNBUSDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "WEEX",
+                    "identifier": "weex",
+                    "has_trading_incentive": false
+                },
+                "last": 597.85,
+                "volume": 3346.80257,
+                "converted_last": {
+                    "btc": 0.00659403,
+                    "eth": 0.26788345,
+                    "usd": 597.64
+                },
+                "converted_volume": {
+                    "btc": 22.068925,
+                    "eth": 896.553,
+                    "usd": 2000198
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.01167,
+                "timestamp": "2025-03-05T12:35:43+00:00",
+                "last_traded_at": "2025-03-05T12:35:43+00:00",
+                "last_fetch_at": "2025-03-05T12:35:43+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.weex.com/trade/bnb_usdc",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "XT.COM",
+                    "identifier": "xt",
+                    "has_trading_incentive": false
+                },
+                "last": 597.9,
+                "volume": 13311.417,
+                "converted_last": {
+                    "btc": 0.00659744,
+                    "eth": 0.26925761,
+                    "usd": 595.88
+                },
+                "converted_volume": {
+                    "btc": 85.313,
+                    "eth": 3482,
+                    "usd": 7705442
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.050234,
+                "timestamp": "2025-03-05T12:53:49+00:00",
+                "last_traded_at": "2025-03-05T12:53:49+00:00",
+                "last_fetch_at": "2025-03-05T12:53:49+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.xt.com/en/trade/bnb_usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Coinstore",
+                    "identifier": "coinstore",
+                    "has_trading_incentive": false
+                },
+                "last": 597.75,
+                "volume": 31213.142,
+                "converted_last": {
+                    "btc": 0.00661719,
+                    "eth": 0.26979555,
+                    "usd": 597.77
+                },
+                "converted_volume": {
+                    "btc": 200.852,
+                    "eth": 8189,
+                    "usd": 18144030
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.19374,
+                "timestamp": "2025-03-05T13:00:54+00:00",
+                "last_traded_at": "2025-03-05T13:00:54+00:00",
+                "last_fetch_at": "2025-03-05T13:00:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinstore.com/#/spot/BNBUSDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "SOL",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.2455,
+                "volume": 24077.766,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 38.756003,
+                    "eth": 1580,
+                    "usd": 3501330
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.040717,
+                "timestamp": "2025-03-05T13:00:05+00:00",
+                "last_traded_at": "2025-03-05T13:00:05+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/SOL_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "solana",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "EUR",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 557.58,
+                "volume": 2936.827,
+                "converted_last": {
+                    "btc": 0.00660548,
+                    "eth": 0.26917401,
+                    "usd": 597.32
+                },
+                "converted_volume": {
+                    "btc": 19.092014,
+                    "eth": 778.002,
+                    "usd": 1726442
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.026899,
+                "timestamp": "2025-03-05T12:47:02+00:00",
+                "last_traded_at": "2025-03-05T12:47:02+00:00",
+                "last_fetch_at": "2025-03-05T12:49:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BNB_EUR?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "BYDFi",
+                    "identifier": "bydfi",
+                    "has_trading_incentive": false
+                },
+                "last": 598.0,
+                "volume": 3443.764,
+                "converted_last": {
+                    "btc": 0.00660598,
+                    "eth": 0.26872166,
+                    "usd": 598.32
+                },
+                "converted_volume": {
+                    "btc": 22.749449,
+                    "eth": 925.414,
+                    "usd": 2060474
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.033428,
+                "timestamp": "2025-03-05T12:40:21+00:00",
+                "last_traded_at": "2025-03-05T12:40:21+00:00",
+                "last_fetch_at": "2025-03-05T12:40:21+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bydfi.com/en/spot/bnb_usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "BTC",
+                "market": {
+                    "name": "FMCPAY",
+                    "identifier": "fmcpay",
+                    "has_trading_incentive": false
+                },
+                "last": 0.006598,
+                "volume": 1394.646,
+                "converted_last": {
+                    "btc": 0.006598,
+                    "eth": 0.26821678,
+                    "usd": 597.98
+                },
+                "converted_volume": {
+                    "btc": 9.406054,
+                    "eth": 382.368,
+                    "usd": 852482
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.015124,
+                "timestamp": "2025-03-05T12:37:23+00:00",
+                "last_traded_at": "2025-03-05T12:37:23+00:00",
+                "last_fetch_at": "2025-03-05T12:37:23+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://fmcpay.com/exchange/BNB_BTC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "BNB",
+                "target": "TRY",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 21799.0,
+                "volume": 2461.605,
+                "converted_last": {
+                    "btc": 0.00660169,
+                    "eth": 0.26851513,
+                    "usd": 598.29
+                },
+                "converted_volume": {
+                    "btc": 15.814366,
+                    "eth": 643.229,
+                    "usd": 1433195
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.027496,
+                "timestamp": "2025-03-05T12:41:02+00:00",
+                "last_traded_at": "2025-03-05T12:41:02+00:00",
+                "last_fetch_at": "2025-03-05T12:41:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BNB_TRY?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "PointPay",
+                    "identifier": "pointpay",
+                    "has_trading_incentive": false
+                },
+                "last": 597.69,
+                "volume": 4930.43417125,
+                "converted_last": {
+                    "btc": 0.00661362,
+                    "eth": 0.26967681,
+                    "usd": 597.7
+                },
+                "converted_volume": {
+                    "btc": 31.727064,
+                    "eth": 1294,
+                    "usd": 2867290
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.059982,
+                "timestamp": "2025-03-05T12:56:21+00:00",
+                "last_traded_at": "2025-03-05T12:56:21+00:00",
+                "last_fetch_at": "2025-03-05T12:56:21+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.pointpay.io/trade-classic/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "ETH",
+                "market": {
+                    "name": "FMCPAY",
+                    "identifier": "fmcpay",
+                    "has_trading_incentive": false
+                },
+                "last": 0.2687,
+                "volume": 7018.335,
+                "converted_last": {
+                    "btc": 0.00659927,
+                    "eth": 0.26826849,
+                    "usd": 598.1
+                },
+                "converted_volume": {
+                    "btc": 46.626325,
+                    "eth": 1895,
+                    "usd": 4225801
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.081931,
+                "timestamp": "2025-03-05T12:37:23+00:00",
+                "last_traded_at": "2025-03-05T12:37:23+00:00",
+                "last_fetch_at": "2025-03-05T12:37:23+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://fmcpay.com/exchange/BNB_ETH",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "ethereum"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "QMall",
+                    "identifier": "qmall",
+                    "has_trading_incentive": false
+                },
+                "last": 597.819776,
+                "volume": 16861.5795249,
+                "converted_last": {
+                    "btc": 0.00660172,
+                    "eth": 0.26854822,
+                    "usd": 597.93
+                },
+                "converted_volume": {
+                    "btc": 108.107,
+                    "eth": 4398,
+                    "usd": 9791554
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.195689,
+                "timestamp": "2025-03-05T12:40:19+00:00",
+                "last_traded_at": "2025-03-05T12:40:19+00:00",
+                "last_fetch_at": "2025-03-05T12:40:19+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://qmall.io/trade/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "LATOKEN",
+                    "identifier": "latoken",
+                    "has_trading_incentive": false
+                },
+                "last": 597.85,
+                "volume": 5374.688600973716,
+                "converted_last": {
+                    "btc": 0.00660986,
+                    "eth": 0.26952875,
+                    "usd": 597.82
+                },
+                "converted_volume": {
+                    "btc": 35.52594,
+                    "eth": 1449,
+                    "usd": 3213092
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.1,
+                "timestamp": "2025-03-05T12:57:09+00:00",
+                "last_traded_at": "2025-03-05T12:57:09+00:00",
+                "last_fetch_at": "2025-03-05T12:57:09+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://latoken.com/exchange/USDT-BNB",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "ADA",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.001654,
+                "volume": 2107256.0,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26954292,
+                    "usd": 596.95
+                },
+                "converted_volume": {
+                    "btc": 21.814958,
+                    "eth": 890.11,
+                    "usd": 1971307
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.060241,
+                "timestamp": "2025-03-05T12:53:06+00:00",
+                "last_traded_at": "2025-03-05T12:53:06+00:00",
+                "last_fetch_at": "2025-03-05T12:53:06+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/ADA_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "cardano",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Phemex",
+                    "identifier": "phemex",
+                    "has_trading_incentive": false
+                },
+                "last": 597.46,
+                "volume": 2207.5757,
+                "converted_last": {
+                    "btc": 0.0066133,
+                    "eth": 0.26981029,
+                    "usd": 597.51
+                },
+                "converted_volume": {
+                    "btc": 14.599353,
+                    "eth": 595.627,
+                    "usd": 1319038
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.063614,
+                "timestamp": "2025-03-05T12:52:33+00:00",
+                "last_traded_at": "2025-03-05T12:52:33+00:00",
+                "last_fetch_at": "2025-03-05T12:52:33+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://phemex.com/spot/trade/BNBUSDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "EUR",
+                "market": {
+                    "name": "Bitvavo",
+                    "identifier": "bitvavo",
+                    "has_trading_incentive": false
+                },
+                "last": 559.82,
+                "volume": 3209.3785257,
+                "converted_last": {
+                    "btc": 0.00663053,
+                    "eth": 0.27047357,
+                    "usd": 598.99
+                },
+                "converted_volume": {
+                    "btc": 21.279879,
+                    "eth": 868.052,
+                    "usd": 1922397
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.073206,
+                "timestamp": "2025-03-05T13:00:09+00:00",
+                "last_traded_at": "2025-03-05T13:00:09+00:00",
+                "last_fetch_at": "2025-03-05T13:00:09+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://account.bitvavo.com/markets/BNB-EUR",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USD",
+                "market": {
+                    "name": "P2B",
+                    "identifier": "p2pb2b",
+                    "has_trading_incentive": false
+                },
+                "last": 597.7,
+                "volume": 1383.245,
+                "converted_last": {
+                    "btc": 0.0066166,
+                    "eth": 0.26996548,
+                    "usd": 597.7
+                },
+                "converted_volume": {
+                    "btc": 9.152382,
+                    "eth": 373.428,
+                    "usd": 826766
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.033428,
+                "timestamp": "2025-03-05T12:59:36+00:00",
+                "last_traded_at": "2025-03-05T12:59:36+00:00",
+                "last_fetch_at": "2025-03-05T12:59:36+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": null,
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "CoinEx",
+                    "identifier": "coinex",
+                    "has_trading_incentive": false
+                },
+                "last": 597.7,
+                "volume": 3037.38787754,
+                "converted_last": {
+                    "btc": 0.0066172,
+                    "eth": 0.26998998,
+                    "usd": 597.75
+                },
+                "converted_volume": {
+                    "btc": 19.576859,
+                    "eth": 798.76,
+                    "usd": 1768444
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.093608,
+                "timestamp": "2025-03-05T12:59:45+00:00",
+                "last_traded_at": "2025-03-05T12:59:45+00:00",
+                "last_fetch_at": "2025-03-05T12:59:45+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinex.com/en/exchange/bnb-usdt?",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "WBTC",
+                "market": {
+                    "name": "Tokpie",
+                    "identifier": "tokpie",
+                    "has_trading_incentive": false
+                },
+                "last": 0.00661606405173,
+                "volume": 552.941349,
+                "converted_last": {
+                    "btc": 0.00660151,
+                    "eth": 0.26906276,
+                    "usd": 596.4
+                },
+                "converted_volume": {
+                    "btc": 3.650247,
+                    "eth": 148.776,
+                    "usd": 329774
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.019998,
+                "timestamp": "2025-03-05T13:01:09+00:00",
+                "last_traded_at": "2025-03-05T13:01:09+00:00",
+                "last_fetch_at": "2025-03-05T13:01:09+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://tokpie.com/view_exchange/BNB-WBTC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "wrapped-bitcoin"
+            },
+            {
+                "base": "BNB",
+                "target": "JPY",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 89660.0,
+                "volume": 1141.8881,
+                "converted_last": {
+                    "btc": 0.00663795,
+                    "eth": 0.270548,
+                    "usd": 599.69
+                },
+                "converted_volume": {
+                    "btc": 7.327787,
+                    "eth": 298.664,
+                    "usd": 662014
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.051271,
+                "timestamp": "2025-03-05T13:00:10+00:00",
+                "last_traded_at": "2025-03-05T13:00:10+00:00",
+                "last_fetch_at": "2025-03-05T13:01:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BNB_JPY?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "HBAR",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.00042661,
+                "volume": 3896001.0,
+                "converted_last": {
+                    "btc": 0.006616,
+                    "eth": 0.26917518,
+                    "usd": 599.67
+                },
+                "converted_volume": {
+                    "btc": 10.833726,
+                    "eth": 440.775,
+                    "usd": 981961
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.065655,
+                "timestamp": "2025-03-05T12:42:08+00:00",
+                "last_traded_at": "2025-03-05T12:42:08+00:00",
+                "last_fetch_at": "2025-03-05T12:42:08+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/HBAR_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "hedera-hashgraph",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "BitDelta",
+                    "identifier": "bitdelta",
+                    "has_trading_incentive": false
+                },
+                "last": 598.3,
+                "volume": 1562.1769999999997,
+                "converted_last": {
+                    "btc": 0.0066225,
+                    "eth": 0.2699185,
+                    "usd": 598.3
+                },
+                "converted_volume": {
+                    "btc": 10.097171,
+                    "eth": 411.538,
+                    "usd": 912208
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.066811,
+                "timestamp": "2025-03-05T13:01:15+00:00",
+                "last_traded_at": "2025-03-05T13:01:15+00:00",
+                "last_fetch_at": "2025-03-05T13:01:15+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://bitdelta.com/en/trade/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "SOL",
+                "target": "BNB",
+                "market": {
+                    "name": "Azbit",
+                    "identifier": "azbit",
+                    "has_trading_incentive": false
+                },
+                "last": 0.2456,
+                "volume": 4947.7278,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26937135,
+                    "usd": 597.47
+                },
+                "converted_volume": {
+                    "btc": 7.956508,
+                    "eth": 324.441,
+                    "usd": 719615
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.081599,
+                "timestamp": "2025-03-05T12:57:02+00:00",
+                "last_traded_at": "2025-03-05T12:57:02+00:00",
+                "last_fetch_at": "2025-03-05T12:57:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://azbit.com/exchange/SOL_BNB?referralCode=OH5QDS1",
+                "token_info_url": null,
+                "coin_id": "solana",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "JPY",
+                "market": {
+                    "name": "Bitbank",
+                    "identifier": "bitbank",
+                    "has_trading_incentive": false
+                },
+                "last": 89654.0,
+                "volume": 319.5666,
+                "converted_last": {
+                    "btc": 0.00663976,
+                    "eth": 0.27074669,
+                    "usd": 599.93
+                },
+                "converted_volume": {
+                    "btc": 2.121846,
+                    "eth": 86.522,
+                    "usd": 191717
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.02565,
+                "timestamp": "2025-03-05T12:55:42+00:00",
+                "last_traded_at": "2025-03-05T12:55:42+00:00",
+                "last_fetch_at": "2025-03-05T12:55:42+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://app.bitbank.cc/trade/bnb_jpy",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "SOLV",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 7.27e-05,
+                "volume": 21948572.0,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 10.778427,
+                    "eth": 439.305,
+                    "usd": 973754
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.137741,
+                "timestamp": "2025-03-05T13:00:11+00:00",
+                "last_traded_at": "2025-03-05T13:00:11+00:00",
+                "last_fetch_at": "2025-03-05T13:01:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/SOLV_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "solv-protocol",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Dex-Trade",
+                    "identifier": "dextrade",
+                    "has_trading_incentive": false
+                },
+                "last": 598.55,
+                "volume": 2422.25435157,
+                "converted_last": {
+                    "btc": 0.00662604,
+                    "eth": 0.27015663,
+                    "usd": 598.57
+                },
+                "converted_volume": {
+                    "btc": 16.049963,
+                    "eth": 654.388,
+                    "usd": 1449877
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.218625,
+                "timestamp": "2025-03-05T13:00:41+00:00",
+                "last_traded_at": "2025-03-05T13:00:41+00:00",
+                "last_fetch_at": "2025-03-05T13:00:41+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://dex-trade.com/spot/trading/BNBUSDT?interface=classic",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitci TR",
+                    "identifier": "bitci",
+                    "has_trading_incentive": false
+                },
+                "last": 596.5,
+                "volume": 4960.968,
+                "converted_last": {
+                    "btc": 0.00660145,
+                    "eth": 0.26918443,
+                    "usd": 596.47
+                },
+                "converted_volume": {
+                    "btc": 32.155238,
+                    "eth": 1311,
+                    "usd": 2905352
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.450751,
+                "timestamp": "2025-03-05T12:55:54+00:00",
+                "last_traded_at": "2025-03-05T12:55:54+00:00",
+                "last_fetch_at": "2025-03-05T12:55:54+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitci.com.tr/exchange/advanced/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "BRL",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 3522.0,
+                "volume": 854.005,
+                "converted_last": {
+                    "btc": 0.006625,
+                    "eth": 0.2700201,
+                    "usd": 598.52
+                },
+                "converted_volume": {
+                    "btc": 5.515363,
+                    "eth": 224.794,
+                    "usd": 498274
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.085106,
+                "timestamp": "2025-03-05T13:00:06+00:00",
+                "last_traded_at": "2025-03-05T13:00:06+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BNB_BRL?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bittime",
+                    "identifier": "bittime",
+                    "has_trading_incentive": false
+                },
+                "last": 597.9,
+                "volume": 49.538,
+                "converted_last": {
+                    "btc": 0.00661817,
+                    "eth": 0.27002352,
+                    "usd": 597.88
+                },
+                "converted_volume": {
+                    "btc": 0.32091702,
+                    "eth": 13.093526,
+                    "usd": 28991
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.011707,
+                "timestamp": "2025-03-05T12:52:35+00:00",
+                "last_traded_at": "2025-03-05T12:52:35+00:00",
+                "last_fetch_at": "2025-03-05T12:52:35+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bittime.com/en/trade/BNB-USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Fastex",
+                    "identifier": "fastex",
+                    "has_trading_incentive": false
+                },
+                "last": 597.74,
+                "volume": 1856.56677,
+                "converted_last": {
+                    "btc": 0.00660941,
+                    "eth": 0.26969325,
+                    "usd": 597.65
+                },
+                "converted_volume": {
+                    "btc": 12.270808,
+                    "eth": 500.704,
+                    "usd": 1109578
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.249638,
+                "timestamp": "2025-03-05T12:58:56+00:00",
+                "last_traded_at": "2025-03-05T12:58:56+00:00",
+                "last_fetch_at": "2025-03-05T12:58:56+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.fastex.com/trade/bnb-usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Trubit",
+                    "identifier": "trubit",
+                    "has_trading_incentive": false
+                },
+                "last": 597.5,
+                "volume": 2219.597,
+                "converted_last": {
+                    "btc": 0.00661499,
+                    "eth": 0.26989964,
+                    "usd": 597.55
+                },
+                "converted_volume": {
+                    "btc": 14.356753,
+                    "eth": 585.773,
+                    "usd": 1296894
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.283901,
+                "timestamp": "2025-03-05T13:00:01+00:00",
+                "last_traded_at": "2025-03-05T13:00:01+00:00",
+                "last_fetch_at": "2025-03-05T13:00:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.trubit.com/pro/crypto-spot-trading/BNB/USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "XRP",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0041541,
+                "volume": 313287.0,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 8.706975,
+                    "eth": 354.877,
+                    "usd": 786613
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.180388,
+                "timestamp": "2025-03-05T12:59:02+00:00",
+                "last_traded_at": "2025-03-05T12:59:02+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/XRP_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ripple",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "BTC",
+                "market": {
+                    "name": "Dex-Trade",
+                    "identifier": "dextrade",
+                    "has_trading_incentive": false
+                },
+                "last": 0.006617,
+                "volume": 633.29079632,
+                "converted_last": {
+                    "btc": 0.006617,
+                    "eth": 0.2697879,
+                    "usd": 597.75
+                },
+                "converted_volume": {
+                    "btc": 4.190485,
+                    "eth": 170.854,
+                    "usd": 378549
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.090621,
+                "timestamp": "2025-03-05T13:00:41+00:00",
+                "last_traded_at": "2025-03-05T13:00:41+00:00",
+                "last_fetch_at": "2025-03-05T13:00:41+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://dex-trade.com/spot/trading/BNBBTC?interface=classic",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "ALT",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 6.4e-05,
+                "volume": 14189257.0,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26967572,
+                    "usd": 596.65
+                },
+                "converted_volume": {
+                    "btc": 5.961752,
+                    "eth": 243.376,
+                    "usd": 538462
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.15528,
+                "timestamp": "2025-03-05T12:54:10+00:00",
+                "last_traded_at": "2025-03-05T12:54:10+00:00",
+                "last_fetch_at": "2025-03-05T12:54:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/ALT_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "altlayer",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "PointPay",
+                    "identifier": "pointpay",
+                    "has_trading_incentive": false
+                },
+                "last": 597.89,
+                "volume": 376.98872845,
+                "converted_last": {
+                    "btc": 0.00661611,
+                    "eth": 0.26979409,
+                    "usd": 597.75
+                },
+                "converted_volume": {
+                    "btc": 2.427925,
+                    "eth": 99.007,
+                    "usd": 219358
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.079968,
+                "timestamp": "2025-03-05T12:55:13+00:00",
+                "last_traded_at": "2025-03-05T12:55:13+00:00",
+                "last_fetch_at": "2025-03-05T12:55:13+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.pointpay.io/trade-classic/BNB_USDC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Nonkyc.io",
+                    "identifier": "nonkyc_io",
+                    "has_trading_incentive": false
+                },
+                "last": 599.72,
+                "volume": 1946.35,
+                "converted_last": {
+                    "btc": 0.00663708,
+                    "eth": 0.27064928,
+                    "usd": 599.65
+                },
+                "converted_volume": {
+                    "btc": 12.442375,
+                    "eth": 507.379,
+                    "usd": 1124144
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.437162,
+                "timestamp": "2025-03-05T12:55:29+00:00",
+                "last_traded_at": "2025-03-05T12:55:29+00:00",
+                "last_fetch_at": "2025-03-05T12:55:29+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://nonkyc.io/market/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "LINK",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0266,
+                "volume": 13532.017,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 2.228348,
+                    "eth": 90.822,
+                    "usd": 201315
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.075019,
+                "timestamp": "2025-03-05T13:00:07+00:00",
+                "last_traded_at": "2025-03-05T13:00:07+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/LINK_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "chainlink",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "Nonkyc.io",
+                    "identifier": "nonkyc_io",
+                    "has_trading_incentive": false
+                },
+                "last": 599.05,
+                "volume": 1820.0241,
+                "converted_last": {
+                    "btc": 0.00662811,
+                    "eth": 0.27026745,
+                    "usd": 599.01
+                },
+                "converted_volume": {
+                    "btc": 11.686337,
+                    "eth": 476.522,
+                    "usd": 1056137
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.419123,
+                "timestamp": "2025-03-05T12:56:24+00:00",
+                "last_traded_at": "2025-03-05T12:56:24+00:00",
+                "last_fetch_at": "2025-03-05T12:56:24+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://nonkyc.io/market/BNB_USDC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "BNB",
+                "target": "IDR",
+                "market": {
+                    "name": "Bittime",
+                    "identifier": "bittime",
+                    "has_trading_incentive": false
+                },
+                "last": 9803675.0,
+                "volume": 48.853,
+                "converted_last": {
+                    "btc": 0.00661104,
+                    "eth": 0.26904636,
+                    "usd": 599.52
+                },
+                "converted_volume": {
+                    "btc": 0.31743413,
+                    "eth": 12.918465,
+                    "usd": 28786
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.017789,
+                "timestamp": "2025-03-05T12:43:53+00:00",
+                "last_traded_at": "2025-03-05T12:43:53+00:00",
+                "last_fetch_at": "2025-03-05T12:43:53+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bittime.com/en/trade/BNB-IDR",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "Fastex",
+                    "identifier": "fastex",
+                    "has_trading_incentive": false
+                },
+                "last": 596.876,
+                "volume": 2095.2417,
+                "converted_last": {
+                    "btc": 0.00660802,
+                    "eth": 0.26955524,
+                    "usd": 596.96
+                },
+                "converted_volume": {
+                    "btc": 13.845393,
+                    "eth": 564.783,
+                    "usd": 1250775
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.508721,
+                "timestamp": "2025-03-05T13:00:28+00:00",
+                "last_traded_at": "2025-03-05T13:00:28+00:00",
+                "last_fetch_at": "2025-03-05T13:00:28+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.fastex.com/trade/bnb-usdc",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "SUI",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.004229,
+                "volume": 64810.3,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26919528,
+                    "usd": 597.36
+                },
+                "converted_volume": {
+                    "btc": 1.804969,
+                    "eth": 73.553,
+                    "usd": 163219
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.070939,
+                "timestamp": "2025-03-05T12:49:08+00:00",
+                "last_traded_at": "2025-03-05T12:49:08+00:00",
+                "last_fetch_at": "2025-03-05T12:49:08+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/SUI_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "sui",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "Trubit",
+                    "identifier": "trubit",
+                    "has_trading_incentive": false
+                },
+                "last": 597.93,
+                "volume": 2025.761,
+                "converted_last": {
+                    "btc": 0.0066201,
+                    "eth": 0.27010821,
+                    "usd": 598.02
+                },
+                "converted_volume": {
+                    "btc": 13.074398,
+                    "eth": 533.451,
+                    "usd": 1181055
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.547177,
+                "timestamp": "2025-03-05T13:00:01+00:00",
+                "last_traded_at": "2025-03-05T13:00:01+00:00",
+                "last_fetch_at": "2025-03-05T13:00:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.trubit.com/pro/crypto-spot-trading/BNB/USDC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "YOCO",
+                "target": "BNB",
+                "market": {
+                    "name": "Tokpie",
+                    "identifier": "tokpie",
+                    "has_trading_incentive": false
+                },
+                "last": 7.70222e-07,
+                "volume": 42612976.64,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26943774,
+                    "usd": 597.34
+                },
+                "converted_volume": {
+                    "btc": 0.21681851,
+                    "eth": 8.843338,
+                    "usd": 19605.65
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.015193,
+                "timestamp": "2025-03-05T12:58:08+00:00",
+                "last_traded_at": "2025-03-05T12:58:08+00:00",
+                "last_fetch_at": "2025-03-05T12:58:08+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://tokpie.com/view_exchange/YOCO-BNB",
+                "token_info_url": null,
+                "coin_id": "yocoinyoco",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "CAKE",
+                "target": "BNB",
+                "market": {
+                    "name": "Tokpie",
+                    "identifier": "tokpie",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0029857037639999997,
+                "volume": 19329.9805773,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26955523,
+                    "usd": 596.78
+                },
+                "converted_volume": {
+                    "btc": 0.38125601,
+                    "eth": 15.557002,
+                    "usd": 34442
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.017141,
+                "timestamp": "2025-03-05T12:59:07+00:00",
+                "last_traded_at": "2025-03-05T12:59:07+00:00",
+                "last_fetch_at": "2025-03-05T12:59:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://tokpie.com/view_exchange/CAKE-BNB",
+                "token_info_url": null,
+                "coin_id": "pancakeswap-token",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "S",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.000973,
+                "volume": 298731.3,
+                "converted_last": {
+                    "btc": 0.006616,
+                    "eth": 0.26917518,
+                    "usd": 599.67
+                },
+                "converted_volume": {
+                    "btc": 1.890743,
+                    "eth": 76.926,
+                    "usd": 171375
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.102669,
+                "timestamp": "2025-03-05T12:34:05+00:00",
+                "last_traded_at": "2025-03-05T12:34:05+00:00",
+                "last_fetch_at": "2025-03-05T12:42:14+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/S_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "sonic-3",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "ETH",
+                "market": {
+                    "name": "Tokpie",
+                    "identifier": "tokpie",
+                    "has_trading_incentive": false
+                },
+                "last": 0.268701,
+                "volume": 254.739561,
+                "converted_last": {
+                    "btc": 0.00658586,
+                    "eth": 0.26842502,
+                    "usd": 594.99
+                },
+                "converted_volume": {
+                    "btc": 1.677679,
+                    "eth": 68.378,
+                    "usd": 151566
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.100071,
+                "timestamp": "2025-03-05T13:01:09+00:00",
+                "last_traded_at": "2025-03-05T13:01:09+00:00",
+                "last_fetch_at": "2025-03-05T13:01:09+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://tokpie.com/view_exchange/BNB-ETH",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "ethereum"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Bitrue",
+                    "identifier": "bitrue",
+                    "has_trading_incentive": false
+                },
+                "last": 598.2,
+                "volume": 281.218125,
+                "converted_last": {
+                    "btc": 0.00662217,
+                    "eth": 0.27013252,
+                    "usd": 598.24
+                },
+                "converted_volume": {
+                    "btc": 1.862274,
+                    "eth": 75.966,
+                    "usd": 168235
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.150276,
+                "timestamp": "2025-03-05T13:00:28+00:00",
+                "last_traded_at": "2025-03-05T13:00:28+00:00",
+                "last_fetch_at": "2025-03-05T13:00:28+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitrue.com/trade/bnb_usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "GPS",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0001096,
+                "volume": 9316910.6,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26947296,
+                    "usd": 596.78
+                },
+                "converted_volume": {
+                    "btc": 9.129263,
+                    "eth": 372.402,
+                    "usd": 824726
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.627803,
+                "timestamp": "2025-03-05T13:00:11+00:00",
+                "last_traded_at": "2025-03-05T13:00:11+00:00",
+                "last_fetch_at": "2025-03-05T13:00:11+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/GPS_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "goplus-security",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "LTC",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.1734,
+                "volume": 1297.557,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 1.500584,
+                    "eth": 61.16,
+                    "usd": 135567
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.114943,
+                "timestamp": "2025-03-05T13:00:04+00:00",
+                "last_traded_at": "2025-03-05T13:00:04+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/LTC_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "litecoin",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "BigONE",
+                    "identifier": "bigone",
+                    "has_trading_incentive": false
+                },
+                "last": 598.24,
+                "volume": 1215.7167,
+                "converted_last": {
+                    "btc": 0.00662318,
+                    "eth": 0.27023391,
+                    "usd": 598.29
+                },
+                "converted_volume": {
+                    "btc": 8.051912,
+                    "eth": 328.528,
+                    "usd": 727356
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.613252,
+                "timestamp": "2025-03-05T12:59:42+00:00",
+                "last_traded_at": "2025-03-05T12:59:42+00:00",
+                "last_fetch_at": "2025-03-05T12:59:42+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://big.one/trade/BNB-USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "THB",
+                "market": {
+                    "name": "Bitkub",
+                    "identifier": "bitkub",
+                    "has_trading_incentive": false
+                },
+                "last": 20168.15,
+                "volume": 463.35212452,
+                "converted_last": {
+                    "btc": 0.00660438,
+                    "eth": 0.26880015,
+                    "usd": 599.13
+                },
+                "converted_volume": {
+                    "btc": 3.060152,
+                    "eth": 124.549,
+                    "usd": 277607
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.264361,
+                "timestamp": "2025-03-05T12:44:10+00:00",
+                "last_traded_at": "2025-03-05T12:44:10+00:00",
+                "last_fetch_at": "2025-03-05T12:44:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitkub.com/market/BNB",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "GTC",
+                "target": "BNB",
+                "market": {
+                    "name": "Tokpie",
+                    "identifier": "tokpie",
+                    "has_trading_incentive": false
+                },
+                "last": 0.001139054,
+                "volume": 21193.9,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26967572,
+                    "usd": 596.65
+                },
+                "converted_volume": {
+                    "btc": 0.15947542,
+                    "eth": 6.510241,
+                    "usd": 14403.74
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.018779,
+                "timestamp": "2025-03-05T12:54:02+00:00",
+                "last_traded_at": "2025-03-05T12:54:02+00:00",
+                "last_fetch_at": "2025-03-05T12:54:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://tokpie.com/view_exchange/GTC-BNB",
+                "token_info_url": null,
+                "coin_id": "global-trust-coin",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "OKX",
+                    "identifier": "okex",
+                    "has_trading_incentive": false
+                },
+                "last": 599.1,
+                "volume": 182.834526,
+                "converted_last": {
+                    "btc": 0.006632,
+                    "eth": 0.27030536,
+                    "usd": 599.15
+                },
+                "converted_volume": {
+                    "btc": 1.171949,
+                    "eth": 47.766037,
+                    "usd": 105877
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.18367,
+                "timestamp": "2025-03-05T12:45:39+00:00",
+                "last_traded_at": "2025-03-05T12:45:39+00:00",
+                "last_fetch_at": "2025-03-05T13:01:26+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.okx.com/trade-spot/bnb-usdc",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "FET",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.001022,
+                "volume": 169997.1,
+                "converted_last": {
+                    "btc": 0.006616,
+                    "eth": 0.26917518,
+                    "usd": 599.67
+                },
+                "converted_volume": {
+                    "btc": 1.140129,
+                    "eth": 46.386695,
+                    "usd": 103340
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.194932,
+                "timestamp": "2025-03-05T12:39:06+00:00",
+                "last_traded_at": "2025-03-05T12:39:06+00:00",
+                "last_fetch_at": "2025-03-05T12:42:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/FET_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "fetch-ai",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "ETH",
+                "market": {
+                    "name": "PointPay",
+                    "identifier": "pointpay",
+                    "has_trading_incentive": false
+                },
+                "last": 0.2698,
+                "volume": 638.77875488,
+                "converted_last": {
+                    "btc": 0.0066128,
+                    "eth": 0.26983156,
+                    "usd": 597.96
+                },
+                "converted_volume": {
+                    "btc": 4.259096,
+                    "eth": 173.79,
+                    "usd": 385126
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.796813,
+                "timestamp": "2025-03-05T12:58:55+00:00",
+                "last_traded_at": "2025-03-05T12:58:55+00:00",
+                "last_fetch_at": "2025-03-05T12:58:55+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://exchange.pointpay.io/trade-classic/BNB_ETH",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "ethereum"
+            },
+            {
+                "base": "BCH",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.641,
+                "volume": 769.281,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 3.017396,
+                    "eth": 122.982,
+                    "usd": 272600
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.623053,
+                "timestamp": "2025-03-05T13:00:05+00:00",
+                "last_traded_at": "2025-03-05T13:00:05+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BCH_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "bitcoin-cash",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "BTC",
+                "market": {
+                    "name": "BitMart",
+                    "identifier": "bitmart",
+                    "has_trading_incentive": false
+                },
+                "last": 0.00662,
+                "volume": 317.06,
+                "converted_last": {
+                    "btc": 0.00662,
+                    "eth": 0.27004405,
+                    "usd": 598.04
+                },
+                "converted_volume": {
+                    "btc": 2.098937,
+                    "eth": 85.62,
+                    "usd": 189615
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.437538,
+                "timestamp": "2025-03-05T13:00:03+00:00",
+                "last_traded_at": "2025-03-05T13:00:03+00:00",
+                "last_fetch_at": "2025-03-05T13:00:03+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitmart.com/trade/en?symbol=BNB_BTC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "KAITO",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0030835,
+                "volume": 191687.8,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 4.128153,
+                    "eth": 168.254,
+                    "usd": 372949
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.912468,
+                "timestamp": "2025-03-05T12:51:08+00:00",
+                "last_traded_at": "2025-03-05T12:51:08+00:00",
+                "last_fetch_at": "2025-03-05T13:01:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/KAITO_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "kaito",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "MASK",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.003711,
+                "volume": 19152.6,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26915927,
+                    "usd": 596.57
+                },
+                "converted_volume": {
+                    "btc": 0.4803936,
+                    "eth": 19.573478,
+                    "usd": 43383
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.135685,
+                "timestamp": "2025-03-05T12:51:06+00:00",
+                "last_traded_at": "2025-03-05T12:51:06+00:00",
+                "last_fetch_at": "2025-03-05T12:51:06+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/MASK_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "mask-network",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "DOT",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.00741,
+                "volume": 22000.51,
+                "converted_last": {
+                    "btc": 0.006589,
+                    "eth": 0.26826416,
+                    "usd": 597.53
+                },
+                "converted_volume": {
+                    "btc": 1.074891,
+                    "eth": 43.763058,
+                    "usd": 97478
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.404313,
+                "timestamp": "2025-03-05T12:33:13+00:00",
+                "last_traded_at": "2025-03-05T12:33:13+00:00",
+                "last_fetch_at": "2025-03-05T12:45:05+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/DOT_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "polkadot",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BB",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0002314,
+                "volume": 900325.5,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924876,
+                    "usd": 596.54
+                },
+                "converted_volume": {
+                    "btc": 1.365888,
+                    "eth": 55.671,
+                    "usd": 123344
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.430293,
+                "timestamp": "2025-03-05T12:50:17+00:00",
+                "last_traded_at": "2025-03-05T12:50:17+00:00",
+                "last_fetch_at": "2025-03-05T12:50:17+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/BB_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "bouncebit",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Binance US",
+                    "identifier": "binance_us",
+                    "has_trading_incentive": false
+                },
+                "last": 599.58,
+                "volume": 150.8546887321125,
+                "converted_last": {
+                    "btc": 0.00663802,
+                    "eth": 0.27083921,
+                    "usd": 599.63
+                },
+                "converted_volume": {
+                    "btc": 1.001376,
+                    "eth": 40.857364,
+                    "usd": 90458
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.40028,
+                "timestamp": "2025-03-05T12:59:40+00:00",
+                "last_traded_at": "2025-03-05T12:59:40+00:00",
+                "last_fetch_at": "2025-03-05T12:59:40+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.us/trade/pro/BNB_USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BRICS",
+                "target": "BNB",
+                "market": {
+                    "name": "P2B",
+                    "identifier": "p2pb2b",
+                    "has_trading_incentive": false
+                },
+                "last": 0.03528,
+                "volume": 10165.1,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26937002,
+                    "usd": 596.88
+                },
+                "converted_volume": {
+                    "btc": 2.369075,
+                    "eth": 96.603,
+                    "usd": 214055
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.845547,
+                "timestamp": "2025-03-05T12:55:47+00:00",
+                "last_traded_at": "2025-03-05T12:55:47+00:00",
+                "last_fetch_at": "2025-03-05T12:55:47+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": null,
+                "token_info_url": null,
+                "coin_id": "brics-chain",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USD",
+                "market": {
+                    "name": "AscendEX (BitMax)",
+                    "identifier": "bitmax",
+                    "has_trading_incentive": false
+                },
+                "last": 600.44,
+                "volume": 335.94,
+                "converted_last": {
+                    "btc": 0.00664623,
+                    "eth": 0.27088561,
+                    "usd": 600.44
+                },
+                "converted_volume": {
+                    "btc": 2.232735,
+                    "eth": 91.001,
+                    "usd": 201712
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.991021,
+                "timestamp": "2025-03-05T13:01:32+00:00",
+                "last_traded_at": "2025-03-05T13:01:32+00:00",
+                "last_fetch_at": "2025-03-05T13:01:32+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://ascendex.com/en/cashtrade-spottrading/usd/bnb",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "CAKE",
+                "target": "BNB",
+                "market": {
+                    "name": "Nonkyc.io",
+                    "identifier": "nonkyc_io",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0029902,
+                "volume": 66503.49,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26943774,
+                    "usd": 597.34
+                },
+                "converted_volume": {
+                    "btc": 1.316888,
+                    "eth": 53.712,
+                    "usd": 119079
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.669478,
+                "timestamp": "2025-03-05T12:58:21+00:00",
+                "last_traded_at": "2025-03-05T12:58:21+00:00",
+                "last_fetch_at": "2025-03-05T12:58:21+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://nonkyc.io/market/CAKE_BNB",
+                "token_info_url": null,
+                "coin_id": "pancakeswap-token",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "TRX",
+                "target": "BNB",
+                "market": {
+                    "name": "Nonkyc.io",
+                    "identifier": "nonkyc_io",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0004052,
+                "volume": 484750.6415,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26955523,
+                    "usd": 596.78
+                },
+                "converted_volume": {
+                    "btc": 1.317827,
+                    "eth": 53.773,
+                    "usd": 119052
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.864539,
+                "timestamp": "2025-03-05T12:59:19+00:00",
+                "last_traded_at": "2025-03-05T12:59:19+00:00",
+                "last_fetch_at": "2025-03-05T12:59:19+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://nonkyc.io/market/TRX_BNB",
+                "token_info_url": null,
+                "coin_id": "tron",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "KuCoin",
+                    "identifier": "kucoin",
+                    "has_trading_incentive": false
+                },
+                "last": 596.67,
+                "volume": 55.6719,
+                "converted_last": {
+                    "btc": 0.0066051,
+                    "eth": 0.26920898,
+                    "usd": 596.72
+                },
+                "converted_volume": {
+                    "btc": 0.36771825,
+                    "eth": 14.987375,
+                    "usd": 33221
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.353545,
+                "timestamp": "2025-03-05T12:47:55+00:00",
+                "last_traded_at": "2025-03-05T12:47:55+00:00",
+                "last_fetch_at": "2025-03-05T13:01:16+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.kucoin.com/trade/BNB-USDC",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "BNB",
+                "target": "TWD",
+                "market": {
+                    "name": "BitoPro",
+                    "identifier": "bitopro",
+                    "has_trading_incentive": false
+                },
+                "last": 19719.7,
+                "volume": 73.81885922,
+                "converted_last": {
+                    "btc": 0.00662444,
+                    "eth": 0.2697523,
+                    "usd": 600.6
+                },
+                "converted_volume": {
+                    "btc": 0.48900871,
+                    "eth": 19.912807,
+                    "usd": 44335
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.795515,
+                "timestamp": "2025-03-05T12:46:11+00:00",
+                "last_traded_at": "2025-03-05T12:46:11+00:00",
+                "last_fetch_at": "2025-03-05T12:46:11+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.bitopro.com/trading/bnb_twd",
+                "token_info_url": null,
+                "coin_id": "binancecoin"
+            },
+            {
+                "base": "RUNE",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.002033,
+                "volume": 16452.4,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 0.21981735,
+                    "eth": 8.959265,
+                    "usd": 19858.94
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.440313,
+                "timestamp": "2025-03-05T12:57:08+00:00",
+                "last_traded_at": "2025-03-05T12:57:08+00:00",
+                "last_fetch_at": "2025-03-05T13:01:00+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/RUNE_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "thorchain",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "ENA",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.000636,
+                "volume": 87677.26,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26915927,
+                    "usd": 596.57
+                },
+                "converted_volume": {
+                    "btc": 0.36104519,
+                    "eth": 14.710666,
+                    "usd": 32605
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.755823,
+                "timestamp": "2025-03-05T12:51:07+00:00",
+                "last_traded_at": "2025-03-05T12:51:07+00:00",
+                "last_fetch_at": "2025-03-05T12:51:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/ENA_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "ethena",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "GALA",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 3.032e-05,
+                "volume": 1308094.0,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26919528,
+                    "usd": 597.36
+                },
+                "converted_volume": {
+                    "btc": 0.25729205,
+                    "eth": 10.484682,
+                    "usd": 23266
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.849951,
+                "timestamp": "2025-03-05T12:45:07+00:00",
+                "last_traded_at": "2025-03-05T12:45:07+00:00",
+                "last_fetch_at": "2025-03-05T12:49:07+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/GALA_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "gala",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "POL",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0004241,
+                "volume": 42660.9,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26919925,
+                    "usd": 597.46
+                },
+                "converted_volume": {
+                    "btc": 0.11960036,
+                    "eth": 4.873801,
+                    "usd": 10816.98
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.610759,
+                "timestamp": "2025-03-05T12:24:10+00:00",
+                "last_traded_at": "2025-03-05T12:24:10+00:00",
+                "last_fetch_at": "2025-03-05T12:48:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/POL_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "polygon-ecosystem-token",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "BTC",
+                "market": {
+                    "name": "CoinEx",
+                    "identifier": "coinex",
+                    "has_trading_incentive": false
+                },
+                "last": 0.00662036,
+                "volume": 27.16214022,
+                "converted_last": {
+                    "btc": 0.00662036,
+                    "eth": 0.26954278,
+                    "usd": 600.3
+                },
+                "converted_volume": {
+                    "btc": 0.18271629,
+                    "eth": 7.439151,
+                    "usd": 16567.89
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.811888,
+                "timestamp": "2025-03-05T12:45:53+00:00",
+                "last_traded_at": "2025-03-05T12:45:53+00:00",
+                "last_fetch_at": "2025-03-05T12:45:53+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinex.com/en/exchange/bnb-btc?",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "bitcoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Ace",
+                    "identifier": "ace",
+                    "has_trading_incentive": false
+                },
+                "last": 601.4,
+                "volume": 8.001,
+                "converted_last": {
+                    "btc": 0.00663678,
+                    "eth": 0.26983759,
+                    "usd": 601.29
+                },
+                "converted_volume": {
+                    "btc": 0.05106211,
+                    "eth": 2.076077,
+                    "usd": 4626.21
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.265692,
+                "timestamp": "2025-03-05T12:38:01+00:00",
+                "last_traded_at": "2025-03-05T12:38:01+00:00",
+                "last_fetch_at": "2025-03-05T12:38:01+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://ace.io/trade/BNB/USDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "KCS",
+                "market": {
+                    "name": "KuCoin",
+                    "identifier": "kucoin",
+                    "has_trading_incentive": false
+                },
+                "last": 52.0302,
+                "volume": 15.1369,
+                "converted_last": {
+                    "btc": 0.00661605,
+                    "eth": 0.26965543,
+                    "usd": 597.71
+                },
+                "converted_volume": {
+                    "btc": 0.10014649,
+                    "eth": 4.081747,
+                    "usd": 9047.53
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.656623,
+                "timestamp": "2025-03-05T12:45:41+00:00",
+                "last_traded_at": "2025-03-05T12:45:41+00:00",
+                "last_fetch_at": "2025-03-05T13:01:12+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.kucoin.com/trade/BNB-KCS",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "kucoin-shares"
+            },
+            {
+                "base": "THE",
+                "target": "BNB",
+                "market": {
+                    "name": "Binance",
+                    "identifier": "binance",
+                    "has_trading_incentive": false
+                },
+                "last": 0.0007118,
+                "volume": 14114.2,
+                "converted_last": {
+                    "btc": 0.006606,
+                    "eth": 0.26924582,
+                    "usd": 596.81
+                },
+                "converted_volume": {
+                    "btc": 0.06916042,
+                    "eth": 2.818824,
+                    "usd": 6248.15
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.668431,
+                "timestamp": "2025-03-05T12:17:07+00:00",
+                "last_traded_at": "2025-03-05T12:17:07+00:00",
+                "last_fetch_at": "2025-03-05T13:01:02+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.binance.com/en/trade/THE_BNB?ref=37754157",
+                "token_info_url": null,
+                "coin_id": "thena",
+                "target_coin_id": "binancecoin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDC",
+                "market": {
+                    "name": "CoinEx",
+                    "identifier": "coinex",
+                    "has_trading_incentive": false
+                },
+                "last": 598.27,
+                "volume": 9.69096653,
+                "converted_last": {
+                    "btc": 0.00662386,
+                    "eth": 0.2702618,
+                    "usd": 598.36
+                },
+                "converted_volume": {
+                    "btc": 0.06279302,
+                    "eth": 2.562032,
+                    "usd": 5672.31
+                },
+                "trust_score": "green",
+                "bid_ask_spread_percentage": 0.611952,
+                "timestamp": "2025-03-05T12:59:45+00:00",
+                "last_traded_at": "2025-03-05T12:59:45+00:00",
+                "last_fetch_at": "2025-03-05T12:59:45+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.coinex.com/en/exchange/bnb-usdc?",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "usd-coin"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "Deepcoin",
+                    "identifier": "deepcoin",
+                    "has_trading_incentive": false
+                },
+                "last": 596.6,
+                "volume": 970.02017904,
+                "converted_last": {
+                    "btc": 0.00659882,
+                    "eth": 0.26892145,
+                    "usd": 595.96
+                },
+                "converted_volume": {
+                    "btc": 6.232198,
+                    "eth": 253.98,
+                    "usd": 562850
+                },
+                "trust_score": "yellow",
+                "bid_ask_spread_percentage": 0.016734,
+                "timestamp": "2025-03-05T12:49:49+00:00",
+                "last_traded_at": "2025-03-05T12:49:49+00:00",
+                "last_fetch_at": "2025-03-05T12:49:49+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.deepcoin.com/en/Spot?currentId=BNB",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "BTCC",
+                    "identifier": "btcc",
+                    "has_trading_incentive": false
+                },
+                "last": 597.64,
+                "volume": 96389.06,
+                "converted_last": {
+                    "btc": 0.00660754,
+                    "eth": 0.26943408,
+                    "usd": 597.61
+                },
+                "converted_volume": {
+                    "btc": 613.275,
+                    "eth": 25007,
+                    "usd": 55466812
+                },
+                "trust_score": "yellow",
+                "bid_ask_spread_percentage": 0.018368,
+                "timestamp": "2025-03-05T12:57:34+00:00",
+                "last_traded_at": "2025-03-05T12:57:34+00:00",
+                "last_fetch_at": "2025-03-05T12:57:34+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.btcc.com/en-US/spot/BNBUSDT",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            },
+            {
+                "base": "BNB",
+                "target": "USDT",
+                "market": {
+                    "name": "FameEX",
+                    "identifier": "fameex",
+                    "has_trading_incentive": false
+                },
+                "last": 597.8,
+                "volume": 91161.0106662,
+                "converted_last": {
+                    "btc": 0.00661007,
+                    "eth": 0.26960382,
+                    "usd": 597.71
+                },
+                "converted_volume": {
+                    "btc": 585.392,
+                    "eth": 23876,
+                    "usd": 52933638
+                },
+                "trust_score": "yellow",
+                "bid_ask_spread_percentage": 0.033467,
+                "timestamp": "2025-03-05T12:58:10+00:00",
+                "last_traded_at": "2025-03-05T12:58:10+00:00",
+                "last_fetch_at": "2025-03-05T12:58:10+00:00",
+                "is_anomaly": false,
+                "is_stale": false,
+                "trade_url": "https://www.fameex.com/en-US/trade/bnb-usdt",
+                "token_info_url": null,
+                "coin_id": "binancecoin",
+                "target_coin_id": "tether"
+            }
+        ]
+    }
+}

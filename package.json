@@ -1,0 +1,30 @@
+{
+  "name": "tether-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "start-dht-bootstrap": "nodemon src/dht/bootstrap.js",
+    "start-dht-node": "nodemon src/dht/node.js",
+    "start-rpc-server": "nodemon src/rpc/server.js",
+    "start-rpc-client": "nodemon src/rpc/client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/rpc": "3.3.2",
+    "axios": "1.8.1",
+    "hyperbee": "2.22.2",
+    "hypercore": "10.38.2",
+    "node-cron": "3.0.3",
+    "node-schedule": "^2.1.1",
+    "random-access-memory": "^6.2.1",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
