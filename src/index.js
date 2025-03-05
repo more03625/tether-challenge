@@ -9,12 +9,12 @@ async function main() {
     try {
         await startDHTBootstrap();
         await startDHTNode()
-        // await scheduleDataPipeline();
+        await scheduleDataPipeline();
         const publicKey = await getRPCServerPublicKey();
         await fetchPrices(publicKey);
 
         // Start the scheduled execution
-        scheduleRecurringDataPipeline(publicKey);
+        // scheduleRecurringDataPipeline(publicKey);
     } catch (error) {
         console.error('Error starting the application:', error);
     }
