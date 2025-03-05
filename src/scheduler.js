@@ -8,7 +8,6 @@ async function scheduleDataPipeline() {
     if (!prices.success) {
       throw new Error("Failed to fetch prices or empty response");
     }
-    console.log('prices ===>', prices);
 
     // Store latest prices
     await db.put('latest-prices', Buffer.from(JSON.stringify(prices.data), 'utf-8'));

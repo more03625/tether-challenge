@@ -9,19 +9,19 @@ async function main() {
     try {
         await startDHTBootstrap();
         await startDHTNode()
-        await scheduleDataPipeline();
+        // await scheduleDataPipeline();
         const publicKey = await getRPCServerPublicKey();
         await fetchPrices(publicKey);
 
         // Start the scheduled execution
-        // scheduleRecurringDataPipeline();
+        scheduleRecurringDataPipeline(publicKey);
     } catch (error) {
         console.error('Error starting the application:', error);
     }
 }
 
 // Function to schedule execution without overlapping tasks
-async function scheduleRecurringDataPipeline() {
+async function scheduleRecurringDataPipeline(publicKey) {
     while (true) {
         try {
             const response = await scheduleDataPipeline();
@@ -29,10 +29,11 @@ async function scheduleRecurringDataPipeline() {
                 throw response.error
             }
             logger.info('Data has been added in hyperbee');
+            await fetchPrices(publicKey);
         } catch (error) {
             logger.error('Error in scheduled data pipeline:', { error });
         }
-        // await new Promise((resolve) => setTimeout(resolve, 30000)); // 30 seconds delay
+        await new Promise((resolve) => setTimeout(resolve, 30000)); // 30 seconds delay
     }
 }
 
