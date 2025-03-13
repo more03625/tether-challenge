@@ -44,6 +44,15 @@ Type `run` in the terminal to execute the pipeline manually:
 ⚡ Executing data pipeline...
 ```
 
+### 📸 **7. Screenshots**  
+🛠️ **Running the Project:** Start the server and execute the data pipeline.
+
+![Project Setup](assets/how-to-run.png)  
+
+🖥️ **Logs in terminal:** See the terminal logs for `latest` & `historical` prices.
+
+![Terminal Output](assets/terminal-output.png)  
+
 ---
 
 🔥 **Now you're all set!** The pipeline will run **automatically** at scheduled intervals, but you can also trigger it manually anytime. Happy coding! 🚀
