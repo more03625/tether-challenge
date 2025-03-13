@@ -1,49 +1,35 @@
-const startDHTBootstrap = require('./dht/bootstrap');
+const cron = require('node-cron');
+const readline = require('readline');
+
 const scheduleDataPipeline = require('./scheduler');
-const startDHTNode = require('./dht/node');
 const { getRPCServerPublicKey } = require('./rpc/server');
-const logger = require('./utils/logging');
 const { fetchPrices } = require('./rpc/client');
 
-async function main() {
-    try {
-        await startDHTBootstrap();
-        await startDHTNode()
-        await scheduleDataPipeline();
-        const publicKey = await getRPCServerPublicKey();
-        await fetchPrices(publicKey);
-
-        // Start the scheduled execution
-        // scheduleRecurringDataPipeline(publicKey);
-    } catch (error) {
-        console.error('Error starting the application:', error);
-    }
+// Function to execute the data pipeline
+async function executePipeline() {
+    console.log("Executing data pipeline...");
+    await scheduleDataPipeline();
+    const publicKey = await getRPCServerPublicKey();
+    await fetchPrices(publicKey);
 }
 
-// Function to schedule execution without overlapping tasks
-async function scheduleRecurringDataPipeline(publicKey) {
-    while (true) {
-        try {
-            const response = await scheduleDataPipeline();
-            if (!response.success) {
-                throw response.error
-            }
-            logger.info('Data has been added in hyperbee');
-            await fetchPrices(publicKey);
-        } catch (error) {
-            logger.error('Error in scheduled data pipeline:', { error });
-        }
-        await new Promise((resolve) => setTimeout(resolve, 30000)); // 30 seconds delay
-    }
-}
+// Schedule the function to run every 30 seconds
+cron.schedule('*/1 * * * *', async () => {
+    console.log("Running scheduled data pipeline...");
+    await executePipeline();
+});
 
-async function runMain() {
-    try {
-        await main();
-        console.log('Bootstrap node started successfully.');
-    } catch (error) {
-        console.error('Error starting bootstrap node:', error);
-    }
-}
+// Allow manual execution via CLI
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
 
-runMain();
+rl.on('line', async (input) => {
+    if (input.trim() === 'run') {
+        console.log("Manually executing data pipeline...");
+        await executePipeline();
+    }
+});
+
+console.log("Scheduler started. Type 'run' and press Enter to execute manually.");

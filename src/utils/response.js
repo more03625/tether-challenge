@@ -1,3 +1,5 @@
+const logger = require('./logging');
+
 const errorHandler = (error) => {
     return {
         success: false,
@@ -12,7 +14,16 @@ const successHandler = (data) => {
     };
 };
 
+function logAxiosError(error, contextMessage = 'Error fetching data') {
+    if (error.response) {
+        logger.error(`${contextMessage}: ${error.response.status} - ${error.response.statusText}`);
+    } else {
+        logger.error(`${contextMessage}: ${error.message}`);
+    }
+}
+
 module.exports = {
     errorHandler,
-    successHandler
+    successHandler,
+    logAxiosError
 }
